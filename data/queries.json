@@ -1,0 +1,3788 @@
+[
+  {
+    "query": "stoicism",
+    "timestamp": "2026-06-16T21:35:50.763Z",
+    "results": 20
+  },
+  {
+    "query": "atomic habits",
+    "timestamp": "2026-06-16T21:35:50.934Z",
+    "results": 20
+  },
+  {
+    "query": "outlive",
+    "timestamp": "2026-06-16T21:36:06.063Z",
+    "results": 20
+  },
+  {
+    "query": "Why do we sleep",
+    "timestamp": "2026-06-16T21:36:31.168Z",
+    "results": 20
+  },
+  {
+    "query": "Productivity for deep work",
+    "timestamp": "2026-06-16T21:36:45.476Z",
+    "results": 20
+  },
+  {
+    "query": "deep work",
+    "timestamp": "2026-06-16T21:36:57.541Z",
+    "results": 20
+  },
+  {
+    "query": "deep work",
+    "timestamp": "2026-06-16T21:38:29.644Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9780349413686",
+        "title": "Deep Work Rules for Focused Success in a Distracted World",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/10590383482312.jpg",
+        "publisher": "Little, Brown Book Group Limited",
+        "datePublished": "2016-01-15",
+        "pages": 304,
+        "synopsis": "\"One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results. Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way. In DEEP WORK, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four \"rules,\" for transforming your mind and habits to support this skill. A mix of cultural criticism and actionable advice, DEEP WORK takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored.",
+        "subjects": [
+          "Business & Economics",
+          "Medical",
+          "Physiology",
+          "Psychology",
+          "Cognitive Psychology & Cognition",
+          "Self-Help",
+          "Personal Growth"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780315222144",
+        "title": "Deep Work",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/5704443482300.jpg",
+        "publisher": "Platkus Books",
+        "datePublished": "2022",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Business & Money",
+          "Management & Leadership",
+          "Management",
+          "Business Development & Entrepreneurship",
+          "Small Business"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781455586691",
+        "title": "Deep Work Rules for Focused Success in a Distracted World",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/6519173482706.jpg",
+        "publisher": "Grand Central Publishing",
+        "datePublished": "2016-01-05",
+        "pages": 304,
+        "synopsis": "<b>Read the<i> Wall Street Journal </i>Bestseller for \"cultivating intense focus\" for fast, powerful performance results for achieving success and true meaning in one's professional life (Adam Grant, author of <i>Give and Take</i>). </b><br>Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.<br>In DEEP WORK, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four \"rules,\" for transforming your mind and habits to support this skill. <br>1. Work Deeply2. Embrace Boredom 3. Quit Social Media4. Drain the Shallows<br>A mix of cultural criticism and actionable advice, DEEP WORK takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. DEEP WORK is an indispensable guide to anyone seeking focused success in a distracted world.<br><b>An Amazon Best Book of 2016 Pick in Business & Leadership</b><b><i>Wall Street Journal </i>Business Bestseller</b><b>A Business Book of the Week at 800-CEO-READ</b>",
+        "subjects": [
+          "Business & Economics",
+          "Time Management",
+          "Self-Help",
+          "Self-Management",
+          "Personal Growth"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781455586660",
+        "title": "Deep Work",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/6518863482706.jpg",
+        "publisher": "Hachette",
+        "datePublished": "2016-01-05",
+        "pages": 288,
+        "synopsis": "Master one of our economy’s most rare skills and achieve groundbreaking results with this “exciting” book (Daniel H. Pink) from an “exceptional” author (New York Times Book Review). Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep Work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way. In Deep Work, author and professor Cal Newport flips the narrative on impact in a connected age. Instead of arguing distraction is bad, he instead celebrates the power of its opposite. Dividing this book into two parts, he first makes the case that in almost any profession, cultivating a deep work ethic will produce massive benefits. He then presents a rigorous training regimen, presented as a series of four \"rules,\" for transforming your mind and habits to support this skill. 1. Work Deeply 2. Embrace Boredom 3. Quit Social Media 4. Drain the Shallows A mix of cultural criticism and actionable advice, Deep Work takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. Deep Work is an indispensable guide to anyone seeking focused success in a distracted world. An Amazon Best Book of 2016 Pick in Business & Leadership Wall Street Journal Business Bestseller A Business Book of the Week at 800-CEO-READ",
+        "subjects": [
+          "Business & Economics",
+          "Marketing",
+          "Special Topics",
+          "General Interests & Hobbies",
+          "Self-Help",
+          "Self-Help General"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9780593545393",
+        "title": "The Time-Block Planner (Second Edition): A Daily Method for Deep Work in a Distracted World",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/8443723482399.jpg",
+        "publisher": "Portfolio",
+        "datePublished": "2023-08-15",
+        "pages": 224,
+        "synopsis": "NEW AND IMPROVED with a spiral binding, four months of planning pages, enhanced interior design, and an updated introduction – this daily planner deploys the power of time blocking to help you focus on what's important.<br/><br/>Since bestselling author Cal Newport introduced The Time-Block Planner in 2020, time-blocking has taken the world by storm. From Tik-Tok to The Today Show, time-blocking has been touted as “near miraculous,” helping people get significantly more done with their limited time. Now, Cal Newport has redesigned his renowned planner based on your feedback.<br/><br/>New features include:<br/>A spiral binding so the planner lays flat Five daily spreads and a newly condensed weekend/weekly-planning spread per week An increase from three to four months’ worth of planning pages A firmer cover with rounded edges to help prevent bending and warping A revised introduction with Newport’s latest insights about the power of time-blocking.<br/>The core idea of time-blocking is to move beyond a simple task list and instead partition your working hours into blocks assigned to specific activities. This allows you the take better advantage of what time you actually have available—more effectively protecting hours for deep work and finding more opportunities to batch shallower efforts into efficient sprints. Newport's new and improved The Time-Block Planner is designed to help you seamlessly integrate this strategy into your daily life, instantly upgrading your ability to avoid distractions and consistently accomplish things that matter.",
+        "subjects": [
+          "Business & Money",
+          "Management & Leadership",
+          "Systems & Planning",
+          "Personal Finance",
+          "Processes & Infrastructure",
+          "Organizational Learning",
+          "Strategic Planning"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780593192054",
+        "title": "The Time-Block Planner A Daily Method of Deep Work in a Distracted World",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/4910333482399.jpg",
+        "publisher": "Penguin",
+        "datePublished": "2020",
+        "pages": 242,
+        "synopsis": "From the bestselling author of Deep Work and Digital Minimalism comes a daily planner that deploys the power of time blocking to help you focus on what's important in an increasingly distracted world.<br/><br/>Time blocking is a time management method long used by some of the world's most effective people, from Elon Musk to Bill Gates, and promoted by some of the smartest thinkers in productivity, from Peter Drucker to Benjamin Franklin. Its core idea is that a task list is not enough to make the most of your limited time. You should instead partition your working hours into blocks assigned to specific activities. In doing so, you can more easily protect hours for deep work, while batching shallow tasks into efficient sprints. The clarity of these blocks also encourages you to focus intensely on one thing at a time, resisting the distracting allure of inboxes, social media, and idle web surfing.<br/><br/>For fifteen years, author Cal Newport has been extolling the benefits of time blocking. Now for the first time, this system has been captured in a daily planner that makes it easy for anyone to implement these ideas in their own professional life.<br/><br/>The Time-Block Planner opens with an introduction from Newport to guide you through the basics of effective time blocking. Ninety days' worth of time-blocking pages follow, each divided into a grid that simplifies both building daily schedules and easily updating them as circumstances change. Weekly planning pages supplement the daily planning pages, each including a big idea about productivity from Newport, inspiring you to think deeply about the week ahead. A \"shutdown\" box sits at the top of each page so you can physically and psychologically end your workday with a check of the box--a ritual widely employed by many of Newport's longtime readers.<br/><br/>You already know what work really matters. The Time-Block Planner will help you push aside distractions and other peoples' demands for your time, and focus on accomplishing more of these deep efforts than you ever thought possible.",
+        "subjects": [
+          "Business & Money",
+          "Management & Leadership",
+          "Systems & Planning",
+          "Personal Finance",
+          "Processes & Infrastructure",
+          "Organizational Learning",
+          "Strategic Planning"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789123832354",
+        "title": "Cal Newport 2 Books Collection Set (Deep Work: Rules for Focused Success in a Distracted World, So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love)",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/14769103485436.jpg",
+        "publisher": "Piatkus",
+        "datePublished": "2019",
+        "pages": null,
+        "synopsis": "Cal Newport 2 Books Collection Set (Deep Work: Rules for Focused Success in a Distracted World, So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love) Description: Deep Work: Rules for Focused Success in a Distracted World: Many modern knowledge workers now spend most of their brain power battling distraction and interruption, whether because of the incessant pinging of devices, noisy open-plan offices or the difficulty of deciding what deserves your attention the most., So Good They Can't Ignore You: Cal Newport's clearly-written manifesto flies in the face of conventional wisdom by suggesting that it should be a person's talent and skill - and not necessarily their passion - that determines their career path.",
+        "subjects": [
+          "Business & Money",
+          "Management & Leadership",
+          "Leadership & Motivation"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9798998801228",
+        "title": "Deep Work: Rules for Focused Success in a Distracted World Paperback by Cal Newport",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/14820203488952.jpg",
+        "publisher": "Mind Quest Incorporated",
+        "datePublished": "2022-07-14",
+        "pages": 304,
+        "synopsis": "Deep Work: Rules for Focused Success in a Distracted World – Paperback by Cal Newport Achieve peak productivity and reclaim your focus with Deep Work, the groundbreaking guide from productivity expert Cal Newport. This powerful book presents actionable strategies for cultivating intense concentration and eliminating distractions in a world full of digital noise. Learn how to master deep work to excel in your career and produce meaningful, high-quality results. Perfect For: Professionals, students, entrepreneurs, and anyone seeking greater focus, creativity, and productivity.",
+        "subjects": [
+          "Literary Collections"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789123963256",
+        "title": "Essentialism: The Disciplined Pursuit of Less & Deep Work: Rules for Focused Success in a Distracted World 2 Books Collection Set",
+        "authors": [
+          "Greg McKeown",
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/16078123485436.jpg",
+        "publisher": "Virgin Books",
+        "datePublished": "2021",
+        "pages": null,
+        "synopsis": "Please Note That The Following Individual Books As Per Original ISBN and Cover Image In this Listing shall be Dispatched<br/><br/>The Disciplined Pursuit of Less & Deep Rules for Focused Success in a Distracted World 2 Books Collection<br/><br/>The Disciplined Pursuit of<br/>In Essentialism, Greg McKeown, CEO of a Leadership and Strategy agency in Silicon Valley who has run courses at Apple, Google and Facebook, shows you how to achieve what he calls the disciplined pursuit of less. Being an Essentialist is about a disciplined way of thinking. It means challenging the core assumption of ‘We can have it all’ and ‘I have to do everything’ and replacing it with the pursuit of ‘the right thing, in the right way, at the right time'.By applying a more selective criteria for what is essential, the pursuit of less allows us to regain control of our own choices so we can channel our time, energy and effort into making the highest possible contribution toward the goals and activities that matter.<br/><br/>Deep Rules for Focused Success in a Distracted<br/>'Deep work' is the ability to focus without distraction on a cognitively demanding task. Coined by author and professor Cal Newport on his popular blog Study Hacks, deep work will make you better at what you do, let you achieve more in less time and provide the sense of true fulfilment that comes from the mastery of a skill. In short, deep work is like a superpower in our increasingly competitive economy.And yet most people, whether knowledge workers in noisy open-plan offices or creatives struggling to sharpen their vision, have lost the ability to go deep - spending their days instead in a frantic blur of email and social media, not even realising there's a better way.",
+        "subjects": [
+          "Business & Money",
+          "Management & Leadership",
+          "Decision-Making & Problem Solving",
+          "Skills",
+          "Decision Making"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781731357250",
+        "title": "Deep Work",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/11817343482804.jpg",
+        "publisher": "Walker-Summary",
+        "datePublished": "2019",
+        "pages": 34,
+        "synopsis": "\"Deep Work, written by Cal Newport, is a book about the power of focusing on work. Mr. Newport, a computer science professor at Georgetown University, decided to write a book about the ability to do a great amount of work by developing the power of focus. Focus and work habits will create something Newport calls \"uninterrupted concentration,\" something that will make our work flow. However, many things prevent us from being focused. When we look at our office places, we will easily notice that they are filled with many interruptions. Our offices, our homes, and every other place is filled with many things that draw our attention and focus away. Things like instant messaging systems and e-mails are prevent us from focusing on what is important. Even the Internet, which is now accessible almost everywhere and something that has become an integral part of our lives and work, contains numerous distractions. In this book, Newport teaches us how to overcome these distractions and focus on what is really important.\"--Back cover",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9788411000512",
+        "title": "Céntrate (Deep Work) las cuatro reglas para el éxito en la era de la distracción",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/20241343485182.jpg",
+        "publisher": "Ediciones Península",
+        "datePublished": "2016",
+        "pages": 320,
+        "synopsis": "El «Deep Work» es la capacidad de concentrarse sin distracciones en una tarea cognitivamente exigente. En un mundo altamente competitivo que además incentiva la hiperconexión y la multitarea, la atención se ha convertido en un activo extremadamente valioso. A partir de cuatro reglas prácticas, Carl Newport demuestra que reforzar nuestra capacidad de concentración y saber alejarse de las distracciones tecnológicas son los primeros pasos para lograr la felicidad y el éxito profesional.",
+        "subjects": [
+          "Self-Help",
+          "Health, Fitness & Dieting"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9783966619813",
+        "title": "Resumen Extendido De Enfocate: Trabajo Profundo (Deep Work) - Basado En El Libro De Cal Newport",
+        "authors": [
+          "Libros Mentores"
+        ],
+        "image": "https://images.isbndb.com/covers/8154133483600.jpg",
+        "publisher": "Libros Mentores",
+        "datePublished": "2019",
+        "pages": 31,
+        "synopsis": null,
+        "subjects": [
+          "Self-Help",
+          "Success",
+          "Kindle Store",
+          "Categories",
+          "Kindle eBooks",
+          "Kindle Short Reads"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9789391242695",
+        "title": "Deep Work (Telugu)",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/20722463485531.jpg",
+        "publisher": "Manjul Publishing",
+        "datePublished": "2021-11-11",
+        "pages": 264,
+        "synopsis": "<p>‘లోతైన పని’ మనం చేసే పనిలో ఏకాగ్రతను సాధిం చడం కోసం , దృ ష్టి మరల్చ కుం డా లక్ష్యం వైపు ఏ విధం గా దూసుకుపోవాలనే విషయాల గురిం చి కూలం కుషం గా చర్చి స్తుం ది. ఏదైనా పని చేసేటప్పు డు పని చేసే సమయాన్ని మనం పూర్తిగా వినియోగిం చుకోవటానికి ఏం చేయాలి? నైపుణ్యా లు అవసరమైన ఉద్యో గాలు చేస్తున్న వాళ్లు తమ నైపుణ్యా లను కోల్పో కుం డా, ఉన్న త స్థాయికి చేరుకోవాలన్నా , చేస్తున్న పని వేగవం తం చేయాలన్నా , గొప్ప మార్గాలు కనుగొనాలన్నా ఏం చేయాలన్న ది, యీ పుస్తకం లో రచయిత, తనదైన శైలిలో సాం కేతికతను, సం స్కృ తినీ జోడిం చి వివరిస్తారు.</p><p><br></p>",
+        "subjects": [
+          "Self-Help"
+        ],
+        "language": "te"
+      },
+      {
+        "isbn13": "9798378980772",
+        "title": "Deep Work: Workbook",
+        "authors": [
+          "Valerie Pope"
+        ],
+        "image": "https://images.isbndb.com/covers/23575233488731.jpg",
+        "publisher": "Independently published",
+        "datePublished": "2023-02-21",
+        "pages": 99,
+        "synopsis": "This journal can help with self-reflection exercises, practical strategies, inspiring insights, identify your strengths, overcome limiting beliefs, and develop a roadmap to success. This journal is a supportive tool that provides inspiration to make meaningful change and achieve your goals. So why wait? Start your journey towards personal growth and self-discovery today.",
+        "subjects": [
+          "Self-Help",
+          "Personal Transformation",
+          "Religion & Spirituality",
+          "Education & Teaching",
+          "Schools & Teaching",
+          "Education Theory",
+          "Studying & Workbooks",
+          "Workbooks"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789391242961",
+        "title": "Deep Work (Tamil)",
+        "authors": [
+          "Cal Newport"
+        ],
+        "image": "https://images.isbndb.com/covers/20725123485531.jpg",
+        "publisher": "Manjul Publishing",
+        "datePublished": "2021-11-05",
+        "pages": 304,
+        "synopsis": "‘கருமமே கண்ணாக’ என்பது அறிவைப் பயன்படுத்தி மேற்கொள்ளப்பட வேண்டிய ஒரு கடினமான வேலையை, எந்த கவனச்சிதறலுக்கும் ஆளாகாமல் ஒருமித்த கவனக்குவிப்புடன் மேற்கொள்வதற்கான திறனாகும். கருமமே கண்ணாகச் செயல்படுவது நீங்கள் செய்கின்ற எந்தவொரு வேலையிலும் நீங்கள் சிறப்புற உதவும், குறைவான நேரத்தில் நீங்கள் அதிகமானவற்றைச் சாதிக்க வழி வகுக்கும், ஒரு திறமையில் மேதமை பெறுவதிலிருந்து வரக்கூடிய உண்மையான மனநிறைவை உங்களுக்கு வழங்கும். சுருக்கமாகக் கூறினால், ஒருமித்த கவனம் செலுத்தக்கூடிய திறன் என்பது, போட்டிகள் தொடர்ந்து அதிகரித்துக் கொண்டிருக்கின்ற இன்றைய உலகில் சர்வ வல்லமை வாய்ந்த ஓர் ஆயுதத்தைப் போன்றது. ஆனாலும், இரைச்சல்மிக்க அலுவலகங்களில் பணியாற்றுகின்ற அறிவுசார் ஊழியர்களாக இருந்தாலும் சரி, தங்களுடைய முன்னோக்கைக் கூர்தீட்டிக் கொள்ளப் போராடிக் கொண்டிருக்கின்ற படைப்பாளிகளாக இருந்தாலும் சரி, பெரும்பாலான மக்கள், ஆழ்ந்த கவனத்துடன் வேலை செய்வதற்கான திறனை இழந்துள்ளனர். மாறாக, மின்னஞ்சல்களிலும் சமூக ஊடகங்களிலும் அவர்கள் தங்களுடைய நாட்களைத் தொலைத்துக் கொண்டிருக்கின்றனர் - இதைவிடச் சிறந்த வழி ஒன்று இருக்கிறது என்பதை உணராமல்! கலாச்சார விமர்சனங்களையும் நடைமுறையில் செயல்படுத்தப்படக்கூடிய அறிவுரைகளையும் உள்ளடக்கிய இந்நூல், கவனச்சிதறலுக்கு உள்ளான ஓர் உலகில் ஒருமித்த கவனத்துடன் வெற்றி பெறுவதற்கான வழியைத் தேடிக் கொண்டிருக்கின்ற எவரொருவருக்கும் வழி காட்டும்.",
+        "subjects": [
+          "Self-Help"
+        ],
+        "language": "ta"
+      },
+      {
+        "isbn13": "9786287578012",
+        "title": "Enfocate Deep Work",
+        "authors": [
+          "Newport",
+          "Cal"
+        ],
+        "image": "https://images.isbndb.com/covers/18873583484426.jpg",
+        "publisher": "Paidos",
+        "datePublished": null,
+        "pages": 0,
+        "synopsis": null,
+        "subjects": [],
+        "language": null
+      },
+      {
+        "isbn13": "9798801436364",
+        "title": "Summary of Deep Work",
+        "authors": [
+          "Charles Page Summaries"
+        ],
+        "image": "https://images.isbndb.com/covers/7176863488882.jpg",
+        "publisher": "Independently Published",
+        "datePublished": "2022-04-12",
+        "pages": 28,
+        "synopsis": null,
+        "subjects": [],
+        "language": null
+      },
+      {
+        "isbn13": "9781456670337",
+        "title": "Deep Work, Mom Life",
+        "authors": [
+          "Amelie Rhodes"
+        ],
+        "image": "https://images.isbndb.com/covers/17355633482706.jpg",
+        "publisher": "eBookit.com",
+        "datePublished": "2025-08-05",
+        "pages": 100,
+        "synopsis": "Where Creativity Meets Motherhood Without Compromise<BR><BR>Imagine reclaiming your creative passion while fully embracing the beautiful chaos of mom life. This isn&#39;t just another productivity guide &ndash; it&#39;s an invitation to redefine success on your own terms, to break free from the relentless cycle of guilt, and to craft meaningful work amid the unpredictable rhythms of family. Deep Work, Mom Life: Create Without Guilt shows you how to navigate the delicate balance between nurturing your art and being present for your children, all without feeling torn in two.<BR><BR>Inside these pages, you&#39;ll discover practical strategies designed specifically for busy moms who refuse to sideline their creativity. From making the most of fleeting quiet moments to building sacred workspaces in the heart of home life, every chapter offers a fresh perspective and actionable techniques rooted in science and real-world experience. Learn to harness focus through mindful scheduling, master the art of saying no without regret, and cultivate emotional clarity that powers your motivation even when distractions come calling.<BR><BR>What if guilt could no longer hold you back? This book dives deep into overcoming the self-doubt and societal pressures that so often shake mothers who strive to create. It shares powerful ways to nurture resilience, celebrate imperfection, and develop a community of like-minded creatives who get the unique challenges&ndash;and triumphs&ndash;of mom life.<BR><BR>By blending honest reflection with practical tools, this guide empowers you to claim your creative identity and build a legacy you&#39;re proud of. Ready to stop surviving and start thriving as a mom and artist alike? It&#39;s time to create without guilt&ndash;and live fully on your own terms.<BR><BR>",
+        "subjects": [
+          "Family & Relationships",
+          "Parenting",
+          "Motherhood",
+          "Self-Help",
+          "Creativity",
+          "Self-Management",
+          "Time Management"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781005925772",
+        "title": "Principle Of Deep Work",
+        "authors": [
+          "Max Matt (author)"
+        ],
+        "image": "https://images.isbndb.com/covers/3636383482546.jpg",
+        "publisher": "Distributed via Smashwords.",
+        "datePublished": "1901",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9798424218415",
+        "title": "The Deep Work Book",
+        "authors": [
+          "OUJI Co."
+        ],
+        "image": "https://images.isbndb.com/covers/26579023488747.jpg",
+        "publisher": "Independently published",
+        "datePublished": "2022-02-27",
+        "pages": 212,
+        "synopsis": null,
+        "subjects": [
+          "Self-Help",
+          "Emotions"
+        ],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "travel paris",
+    "timestamp": "2026-06-16T21:38:52.407Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9781533440808",
+        "title": "Paris Travel The Ultimate Guide to Travel to Paris on a Cheap Budget: Paris Travel, Paris Travel Guide, Paris Travel Book, Paris Travel Tips, Paris Travel Ideas",
+        "authors": [
+          "Sandy Rose"
+        ],
+        "image": "https://images.isbndb.com/covers/26744013482733.jpg",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "datePublished": "2016-05-24",
+        "pages": 24,
+        "synopsis": "Paris Travel: The Ultimate Guide to Travel to Paris on a Cheap Budget Thank you for downloading the book Paris Travel: The Ultimate Guide to Travel to Paris on a Cheap Budget. So, you've always wanted to travel to the city that epitomizes love in its fullest, but have forever been daunted by the mind-boggling expenses that you think will undoubtedly go into that Paris vacation? Perhaps you're even looking to honeymoon there but have just returned a tad bit dejected from your travel agent's office, knowing full well that you cannot afford the monumental damage that will accrue along the course of your Paris trip.",
+        "subjects": [
+          "Travel",
+          "Europe"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781523601172",
+        "title": "Paris, France, The Best Travel Guide with Pictures, Maps, Tips from a Parisian! Paris Travel Guide (Paris, France Travel, Travel to Paris, Travel, Paris Travel Guide)",
+        "authors": [
+          "Samir Taieb"
+        ],
+        "image": "https://images.isbndb.com/covers/12605023482730.jpg",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "datePublished": "2016-01-20",
+        "pages": 62,
+        "synopsis": "Samir Taieb was born and raised in Paris , he loves to travel around the world , he uses his own experience to find the best things to see and do , from to locals to professional in the industry he tries to get the best of each trip.He also know the difficulty of planning each and every travel, this is why he has put in each book , a travel essentials part as well as simple words or sentences to help you communicate with locals.He also enjoy the different cuisine from croissant in Paris to Burgers in New-York you will also have a part of the local cuisine in each and every bookSamir Taieb has travelled to Europe ,North Africa, North America , Middle east as well as in Asia , he can be found in the subway like the locals or in a 5 star hotel.",
+        "subjects": [
+          "Travel",
+          "Europe",
+          "France"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780261669291",
+        "title": "Traveler Paris",
+        "authors": [
+          "Zondervan"
+        ],
+        "image": "https://images.isbndb.com/covers/3805923482281.jpg",
+        "publisher": "Zondervan",
+        "datePublished": "1997-12-31",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "France",
+          "Travel & holiday guides"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781841577036",
+        "title": "Travellers Paris",
+        "authors": [
+          "Elisabeth Morris"
+        ],
+        "image": "https://images.isbndb.com/covers/18669393482843.jpg",
+        "publisher": "Thomas Cook Publishing",
+        "datePublished": "2007-02",
+        "pages": 192,
+        "synopsis": "Paris is one of the best known and best loved cities inthe world. The sheer beauty of the capital conquers first-time visitors. However, beauty alone does not explain theattraction of Paris. One could argue in favour of itsvast cultural wealth, its fashion, the infinite varietyof its cuisine or its nightlife. However, its magicalappeal ......",
+        "subjects": [
+          "Travel",
+          "Europe",
+          "France",
+          "Reference"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9798880526826",
+        "title": "Travel: Paris",
+        "authors": [
+          "Clovice Holt"
+        ],
+        "image": "https://images.isbndb.com/covers/11679363488910.jpg",
+        "publisher": "Blurb",
+        "datePublished": "2024",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781921746789",
+        "title": "Travel: Paris",
+        "authors": [
+          "iMinds"
+        ],
+        "image": "https://images.isbndb.com/covers/5879013482872.jpg",
+        "publisher": "iMinds Pty Ltd",
+        "datePublished": "2014-05-14",
+        "pages": 15,
+        "synopsis": "Learn about the history of the city of Paris with iMinds Travel's insightful knowledge series. This collection includes the story of 6 of Paris' most famous and beautiful destinations - The Eiffel Tower, Sacre Coeur, The Latin Quarter, Notre Dame, The Champs Elysees and The Louvre. iMinds will tell you the story behind the place with its innovative travel series, transporting the armchair traveller or getting you in the mood for discover on route to your destination. iMinds brings targeted knowledge to your eReading device with short information segments to whet your mental appetite and broaden your mind. Clear, concise and engaging, discover what you never knew you were missing.",
+        "subjects": [
+          "History",
+          "Europe",
+          "France",
+          "Travel"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781523993987",
+        "title": "Travel Journal Paris : Travel Log in All Departments; Travel Guide Paris in All; Travel Paris in Al; Paris Travel Guides in Al; Paris Journal in Al; Travel Journal Paris in All d; Paris Journal in Al; France Travel Guide in Al",
+        "authors": [
+          "Baldwin Baldwin Avenue"
+        ],
+        "image": "https://images.isbndb.com/covers/16533173482730.jpg",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "datePublished": "2016-02-11",
+        "pages": 100,
+        "synopsis": null,
+        "subjects": [],
+        "language": null
+      },
+      {
+        "isbn13": "9781533437303",
+        "title": "London and Paris in a Budget for the First Time Traveler London, Paris, London Travel, Paris Travel, Budget Travel",
+        "authors": [
+          "Sandy Rose"
+        ],
+        "image": "https://images.isbndb.com/covers/26708963482733.jpg",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "datePublished": "2016-05-24",
+        "pages": 52,
+        "synopsis": "London and Paris in a Budget for the First Time Traveler If you wish to travel to the beautiful city of London, but your low budget doesn't allow you to plan the tour, then you should think no more. It is a myth that only money can make you enjoy the beauty and splendor of a city. You can plan and enjoy your London tour at a very cheap budget. You just need to plan things in a way that support your budget. London has many places to explore and many places to dine that can be enjoyed at a very low cost. So, if you know about all these places, you'll be able to enjoy your travel in a better way. A good knowledge and good money managing technique is all that is required to plan the your in an optimal way.",
+        "subjects": [
+          "Travel",
+          "Europe"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781593501129",
+        "title": "Out Traveler Paris",
+        "authors": [
+          "Leslie Feinberg"
+        ],
+        "image": "https://images.isbndb.com/covers/9459843482755.jpg",
+        "publisher": "Alyson Publications",
+        "datePublished": "2011-12-15",
+        "pages": 288,
+        "synopsis": null,
+        "subjects": [
+          "Fiction",
+          "LGBTQ+",
+          "Gay"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780261665828",
+        "title": "Diamond Traveller Paris",
+        "authors": [
+          "Anonymous"
+        ],
+        "image": "https://images.isbndb.com/covers/3771293482281.jpg",
+        "publisher": "HarperCollins Canada, Limited",
+        "datePublished": "1995-03-08",
+        "pages": 128,
+        "synopsis": null,
+        "subjects": [
+          "France",
+          "Travel & holiday guides"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9784767807515",
+        "title": "the travels PARIS",
+        "authors": [
+          "伊藤俊治",
+          "清水玲奈"
+        ],
+        "image": "https://images.isbndb.com/covers/15581003483885.jpg",
+        "publisher": "エクスナレッジ",
+        "datePublished": "2008-12",
+        "pages": 191,
+        "synopsis": "ファン必見!押さえるべき建築はコレ!芸術都市のモダン建築を詳しい解説付きで見て歩き。パリジャンが愛する料理店案内(メニュー対訳付き)。気軽に入れる定食屋から高級店まで老舗をカバー。詳しくて見やすい地図で、行きたい場所に迷わずアクセス。",
+        "subjects": [
+          "Reference",
+          "Bibliographies & Indexes"
+        ],
+        "language": "ja"
+      },
+      {
+        "isbn13": "9798357678560",
+        "title": "Lost In Paris: The Insider’s Guide To Traveling Paris: The Ultimate Paris Travel Guide",
+        "authors": [
+          "Rona Silcox"
+        ],
+        "image": "https://images.isbndb.com/covers/7153643488724.jpg",
+        "publisher": "Independently published",
+        "datePublished": "2022-10-12",
+        "pages": 49,
+        "synopsis": null,
+        "subjects": [
+          "Literature & Fiction",
+          "World Literature",
+          "European",
+          "Travel",
+          "Europe",
+          "France",
+          "Specialty Travel"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9781426215469",
+        "title": "National Geographic Traveler - Paris",
+        "authors": [
+          "Heidi Ellison",
+          "Elizabeth Ayre",
+          "Lisa Davidson"
+        ],
+        "image": "https://images.isbndb.com/covers/21750643482695.jpg",
+        "publisher": "National Geographic Books",
+        "datePublished": "2016-01-05",
+        "pages": 272,
+        "synopsis": "All the fabled sights of the City of Lights are here, from the Eiffel Tower to the Louvre, with detailed information on how best to visit (purchase a museum pass, for instance, for the best price into museums). Readers will also discover a plethora of lesser known sights (secret Parisian parks and the ultra chic Avenue Montaigne among them), as well as popular excursions, including the marvelous palace of Versailles and the medieval village of Provins. . The guide also includes mapped walking tours (strolls around the Old Marais, Grands Boulevards, and Montparnasse); detailed features on history, culture, and contemporary life; and 3-D illustrations. An in-depth chapter describes Paris's history and culture, and a detailed back section features practical information, including how to get around, an extensive listing of handpicked hotels and restaurants, and select activities and entertainment options. <p> Aimed at active travelers who want authentic, enriching, cultural experiences and expert advice from a trustworthy source, <i> National Geographic Travelers</i> provide ways for people to experience a place rather than just visit, and give the true feel of each destination not easily found online.",
+        "subjects": [
+          "Travel",
+          "Europe",
+          "France",
+          "Western",
+          "Museums, Tours, Points of Interest"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9788854416789",
+        "title": "National Geographic Traveler: Paris, 5th Edition",
+        "authors": [
+          "National Geographic"
+        ],
+        "image": "https://images.isbndb.com/covers/16849293485340.jpg",
+        "publisher": "National Geographic",
+        "datePublished": "2021-06",
+        "pages": 272,
+        "synopsis": "<b>The National Geographic Traveler guidebooks are in tune with the growing trend toward experiential travel. Each book provides inspiring photography, insider tips, and expert advice for a more authentic, enriching experience of the destination. These books serve a readership of active, discerning travelers, and supply information, historical context, and cultural interpretation not available on the Internet.</b><br> <br> <i>National Geographic Traveler Paris</i> is the ideal companion for anyone visiting the most beautiful city in the world. Paris can be seen as a magical, timeless place where Notre-Dame, the Tour Eiffel, and the hill of Montmartre are unchanging stages for a glorious story, populated with extraordinary characters from the past. Or, we can keep our eyes firmly fixed on the present, exploring multicultural districts like Belleville, or the futuristic constructions such as the celebrated Musée du quai Branly-Jacques Chirac, the new anthropological museum. We can wander aimlessly along the streets of the Marais or the grands boulevards, follow the Seine or stroll through the corridors of the Louvre, with that idle curiosity the French call <i>flânerie.</i> Readers will find detailed information on the best way to visit the essential venues, and a myriad of less well-known locations, from secret Paris parks to the elegant Avenue Montaigne. The guide includes maps for walking tours around the Marais, the grand boulevards, and Montparnasse.",
+        "subjects": [
+          "History",
+          "Europe",
+          "France",
+          "Nature",
+          "Animals",
+          "TRAVEL",
+          "Travel",
+          "Western",
+          "Museums, Tours, Points of Interest",
+          "Reference"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780792274292",
+        "title": "National Geographic Traveler: Paris",
+        "authors": [
+          "Lisa Davidson"
+        ],
+        "image": "https://images.isbndb.com/covers/1641623482470.jpg",
+        "publisher": "National Geographic Society",
+        "datePublished": "1999",
+        "pages": 271,
+        "synopsis": "Take a tour of Paris guided by National Geographic -- for generations synonymous with the thrill of discovery and exploration. Featured sites include both famous and lesser known places, selected to help you experience the city in a fresh and exciting way. <p> * In-depth site descriptions and background information<br> * Insightful features on history, culture, and contemporary life<br> * More than 190 vivid color photographs<br> * 20 detailed, full-color maps<br> * Mapped walking tours<br> * Specially commissioned artwork and floor plans<br> * Clear, easy-to-use design<br> * Complete visitor information plus hotels, restaurants, shopping, and entertainment",
+        "subjects": [
+          "Travel",
+          "Europe",
+          "France"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781533437174",
+        "title": "Europe Travel: How to Travel to London, Paris, Spain, and Greece on Cheap Budget Europe Travel, London Travel, Paris Travel, Spain Travel, Greece Travel",
+        "authors": [
+          "Sandy Rose"
+        ],
+        "image": "https://images.isbndb.com/covers/26707673482733.jpg",
+        "publisher": "CreateSpace Independent Publishing Platform",
+        "datePublished": "2016-05-24",
+        "pages": 106,
+        "synopsis": "Europe Travel: How to Travel to London, Paris, Spain, and Greece on Cheap Budget If you wish to travel to the beautiful city of London, but your low budget doesn't allow you to plan the tour, then you should think no more. It is a myth that only money can make you enjoy the beauty and splendor of a city. You can plan and enjoy your London tour at a very cheap budget. You just need to plan things in a way that support your budget. London has many places to explore and many places to dine that can be enjoyed at a very low cost. So, if you know about all these places, you'll be able to enjoy your travel in a better way. A good knowledge and good money managing technique is all that is required to plan the your in an optimal way.",
+        "subjects": [
+          "Travel",
+          "Europe"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9798988727033",
+        "title": "Pawtastic Travels - Paris Coloring Book",
+        "authors": [
+          "Luiz Paulo Pereira de Novais MIranda"
+        ],
+        "image": "https://images.isbndb.com/covers/26421413488948.jpg",
+        "publisher": "LPM Coloring Books",
+        "datePublished": "2023-07-12",
+        "pages": 44,
+        "synopsis": "Embark on a delightful journey to the City of Lights with \"Pawtastic Travels - Coloring Book: Paris\"! Join SuperCat, the intrepid superhero cat, as they explore the enchanting streets of Paris, France. From the iconic Eiffel Tower to the charming streets of Montmartre, immerse yourself in the romance and beauty of this mesmerizing city. Discover the historic landmarks, stroll along the Seine River, and indulge in the delectable flavors of French cuisine. With intricate illustrations capturing the essence of Paris, this coloring book allows you to unleash your creativity and bring the city to life with vibrant colors. Join SuperCat on this Parisian adventure and let your imagination soar as you explore the wonders of the City of Lights.",
+        "subjects": [
+          "Arts & Photography",
+          "Drawing",
+          "Figure Drawing",
+          "Specific Objects",
+          "Children's Books",
+          "Arts, Music & Photography",
+          "Art",
+          "Activities, Crafts & Games",
+          "Activity Books"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789756690031",
+        "title": "The National Geographic Traveler Paris",
+        "authors": [
+          "Lisa Davidson"
+        ],
+        "image": "https://images.isbndb.com/covers/24043123485661.jpg",
+        "publisher": "Doǧuş Grubu İ.Y.T.A.S.",
+        "datePublished": "2000",
+        "pages": 271,
+        "synopsis": null,
+        "subjects": [],
+        "language": "tr"
+      },
+      {
+        "isbn13": "9798761615960",
+        "title": "Daisy's Travels Paris - Rio - Berlin",
+        "authors": [
+          "Nick Aaron"
+        ],
+        "image": "https://images.isbndb.com/covers/2173883488868.jpg",
+        "publisher": "Amazon Digital Services LLC - KDP Print US",
+        "datePublished": "2021-11-07",
+        "pages": 558,
+        "synopsis": "<p><b>Expanded Distribution.</b> <i>Support your local community: order this book in your favorite bookstore!</i></p><p>There was nothing Daisy Hayes loved more than going places, even though she was totally blind. And travel she did in her long and eventful life; being married to an intercontinental pilot for many years helped a bit. But not being able to <i>see</i> a place does not mean you cannot get to know local life quite well, especially when you seem to attract trouble like a magnet. So here are three of our blind sleuth's most exciting and exotic adventures.</p><p><b>First Spring in Paris: </b>In 1946 Daisy and her friend Beatrice moved to Paris, where very interesting things were going on, like the existentialist scene in Saint-Germain-des-Prés. But just as they were settling into a new life, a very disturbing murder case was thrown in their path, and Daisy had to rise to the challenge as never before.</p><p><b>H</b><b>oneymoon in Rio: </b> In 1952, newly wed to a pilot, Daisy took off to South America on her honeymoon. But an engine of the Super Constellation her husband was flying broke down: was it sabotage? They were grounded in Rio for repairs, and soon uncovered a murderous plot. In the end Daisy's very life was threatened by an elusive arch-criminal.</p><p><b>Berlin Fall: </b> In 1972 Daisy had a patient who worked for MI6. And she was planning to visit Berlin with her friend Margery, a scientist. Without even knowing it Marge had a connection to a high-ranking communist party boss... Unwittingly the two ladies got mixed up in a spy plot that did not turn out the way the spymasters on both sides of the Wall had envisioned.</p>",
+        "subjects": [
+          "Mystery, Thriller & Suspense",
+          "Mystery",
+          "Historical",
+          "Women Sleuths"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781799114215",
+        "title": "Eiffel in Louvre with Paris Travel Paris France Notebook (6x9) for Travel Notes & Diaries",
+        "authors": [
+          "Travel Far Publishing"
+        ],
+        "image": "https://images.isbndb.com/covers/15328033482828.jpg",
+        "publisher": "Amazon Digital Services LLC - KDP Print US",
+        "datePublished": "2019-03-08",
+        "pages": 102,
+        "synopsis": "<p>Eiffel In Louvre With Paris</p> <p>Travel Paris France Notebook (6x9\") For Travel Notes & Diaries</p> <p>The perfect travel diary for any europe trip or offline blogger!</p> <ul> <li>6x9 inch easy to carry size</li> <li>100 page blank lined notebook</li> <li>Makes a great birthday gift</li> <li>Or anniversary gift</li> </ul>",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Foreign Language Study",
+          "French"
+        ],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "yoyo ma",
+    "timestamp": "2026-06-16T21:39:27.051Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9789086222636",
+        "title": "Ma journée",
+        "authors": [
+          "Yoyo"
+        ],
+        "image": "https://images.isbndb.com/covers/3787193485423.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2007-09",
+        "pages": 8,
+        "synopsis": null,
+        "subjects": [
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9782035934062",
+        "title": "Ma balance fait le yoyo Au secours qu'est-ce que je mange ?",
+        "authors": [
+          "Elise Delprat-Alvarès"
+        ],
+        "image": "https://images.isbndb.com/covers/24320143482912.jpg",
+        "publisher": "Larousse",
+        "datePublished": "2017-03-08",
+        "pages": 63,
+        "synopsis": "Votre balance yoyote sérieusement ?Bon, pas de panique, on va trouver une solution. Vous êtes une récidiviste : vous avez tout tenté pour avoir une silhouette de rêve, des régimes « bananes » aux régimes hyperprotéinés, des comptage de calories aux bons plans des copines, de la soupe au chou aux pilules miracle...Après des années de régimes, le constat est toujours le même : pas un kilo de perdu, quelques-uns en bonus au compteur, et puis vous avez faim ! Ici on ne vous promet pas la Lune, simplement :des explications pour bien comprendre (pourquoi tous ces régimes ne servent à rien)des astuces pour faire face au quotidien (et ne pas se priver toute l'année)des recettes pour vous préparer des menus équilibrés et adaptés (et qui donnent envie !)des espaces de notes personnalisables (pour vous approprier votre carnet !).",
+        "subjects": [
+          "Reference"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9782035939203",
+        "title": "Ma balance fait le yoyo, au secours qu'est-ce que je mange ?",
+        "authors": [
+          "Élise Delprat-Alvarès"
+        ],
+        "image": "https://images.isbndb.com/covers/24371553482912.jpg",
+        "publisher": "Hachette",
+        "datePublished": "2017-03-08",
+        "pages": 64,
+        "synopsis": "Votre balance yoyote sérieusement ? Bon, pas de panique, on va trouver une solution.   Vous êtes une récidiviste : vous avez tout tenté pour avoir une silhouette de rêve, des régimes « bananes » aux régimes hyperprotéinés, des comptage de calories aux bons plans des copines, de la soupe au chou aux pilules miracle… Après des années de régimes, le constat est toujours le même : pas un kilo de perdu, quelques-uns en bonus au compteur, et puis  vous avez faim !   Ici on ne vous promet pas la Lune, simplement :   des explications pour bien comprendre (pourquoi tous ces régimes ne servent à rien) des astuces pour faire face au quotidien (et ne pas se priver toute l’année) des recettes pour vous préparer des menus équilibrés et adaptés (et qui donnent envie !) des espaces de notes personnalisables (pour vous approprier votre carnet !)",
+        "subjects": [
+          "Professional, Career & Trade",
+          "Culinary & Hospitality",
+          "General Culinary & Hospitality"
+        ],
+        "language": "French"
+      },
+      {
+        "isbn13": "9789463040839",
+        "title": "Ma locomotive",
+        "authors": [
+          "Yoyo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8473363485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09",
+        "pages": 8,
+        "synopsis": "Little ones will enjoy playing with this soft train, while the colourful illustrations in the attached soft book will kindle their imagination.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9788408098317",
+        "title": "Mi pizarra más divertida. Verde",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305183485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098300",
+        "title": "Mi pizarra más divertida. Azul",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305013485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098324",
+        "title": "Mi pizarra más divertida. Amarillo",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305253485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098331",
+        "title": "Mi pizarra más divertida. Rojo",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305323485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9789462449428",
+        "title": "Ma maison enchantée",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/2559253485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09-07",
+        "pages": 12,
+        "synopsis": "Suis les aventures d’Odyssée et d’Orphée dans leur course parmi les fleurs. Leur histoire captivera l’imagination de tous.<br/><br/>Et l’aventure ne s’arrête pas là! Amuse-toi à construire ta propre maison enchantée en 3D et en bois grâce au kit. Tu pourras passer des heures à rejouer les scènes de l’histoire ou encore à inventer de nouvelles aventures.<br/><br/>Tout le monde peut se joindre à un conte de fées!",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789462449411",
+        "title": "Ma jolie ferme",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/2559083485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09-07",
+        "pages": 12,
+        "synopsis": "Ma jolie ferme Suis Attila et Augustin jouant à cache-cache à la ferme. Leur histoire captivera l'imagination de tous. Et l'aventure ne s'arrête pas là ! Amuse-toi à construire ta propre ferme en 3D et en bois grâce au kit. Tu pourras passer des heures à rejouer les scènes de l'histoire ou encore à inventer de nouvelles aventures. Tout le monde peut se joindre à une aventure à la ferme !",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463043052",
+        "title": "X-Mas Red",
+        "authors": [
+          "YoYo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8495493485557.jpg",
+        "publisher": "YoYo Books",
+        "datePublished": "2015-10",
+        "pages": 144,
+        "synopsis": "This book allows children to let their imagination run free and colour with magical pens! The three added felt-tip pens change colour when children use the colour changing pen. Little artists colour with one pen and then magically change the colour to make their drawings even more unique and bright. Let the colouring magic begin!",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789463999205",
+        "title": "Ma lampe magique L'espace",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/18057023485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2021-04-14",
+        "pages": 14,
+        "synopsis": "Explore la nature aux côtés d'Adrien l'astronaute, ton guide. Sors la lampe-torche en carton de sa pochette, collée en première page, et passe-la derrière chaque scène pour découvrir des étoiles, des planètes et d'autres objets étonnants dans l'espace.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547511",
+        "title": "Ma ribambelle d'activités (Chat)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540083485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464541724",
+        "title": "Ma lampe d'explorateur Noël",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23482213485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2022-11-02",
+        "pages": 22,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Activities, Crafts & Games",
+          "Activity Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547504",
+        "title": "Ma ribambelle d'activités (hippopotame)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540013485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463048798",
+        "title": "Ma bibliothèque des véhicules !",
+        "authors": [
+          "Yoyo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8552953485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2016-10-07",
+        "pages": 88,
+        "synopsis": "Une bibliothèque roulante qui contient quatre imagiers tout carton sur le thème des véhicules.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464760002",
+        "title": "Ma lampe d'explorateur Noël",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/25664993485557.jpg",
+        "publisher": "Yoyo Books",
+        "datePublished": "2023-10-10",
+        "pages": 19,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Activities, Crafts & Games",
+          "Activity Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547528",
+        "title": "Ma ribambelle d'activités (crocodile)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540253485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547498",
+        "title": "Ma ribambelle d'activités (souris)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23539953485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463041393",
+        "title": "Book Tower X-mas",
+        "authors": [
+          "YoYo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8478903485557.jpg",
+        "publisher": "YoYo Books",
+        "datePublished": "2015-10",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "Yoyo-MA",
+    "timestamp": "2026-06-16T21:39:45.844Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9789086222636",
+        "title": "Ma journée",
+        "authors": [
+          "Yoyo"
+        ],
+        "image": "https://images.isbndb.com/covers/3787193485423.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2007-09",
+        "pages": 8,
+        "synopsis": null,
+        "subjects": [
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9782035934062",
+        "title": "Ma balance fait le yoyo Au secours qu'est-ce que je mange ?",
+        "authors": [
+          "Elise Delprat-Alvarès"
+        ],
+        "image": "https://images.isbndb.com/covers/24320143482912.jpg",
+        "publisher": "Larousse",
+        "datePublished": "2017-03-08",
+        "pages": 63,
+        "synopsis": "Votre balance yoyote sérieusement ?Bon, pas de panique, on va trouver une solution. Vous êtes une récidiviste : vous avez tout tenté pour avoir une silhouette de rêve, des régimes « bananes » aux régimes hyperprotéinés, des comptage de calories aux bons plans des copines, de la soupe au chou aux pilules miracle...Après des années de régimes, le constat est toujours le même : pas un kilo de perdu, quelques-uns en bonus au compteur, et puis vous avez faim ! Ici on ne vous promet pas la Lune, simplement :des explications pour bien comprendre (pourquoi tous ces régimes ne servent à rien)des astuces pour faire face au quotidien (et ne pas se priver toute l'année)des recettes pour vous préparer des menus équilibrés et adaptés (et qui donnent envie !)des espaces de notes personnalisables (pour vous approprier votre carnet !).",
+        "subjects": [
+          "Reference"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9782035939203",
+        "title": "Ma balance fait le yoyo, au secours qu'est-ce que je mange ?",
+        "authors": [
+          "Élise Delprat-Alvarès"
+        ],
+        "image": "https://images.isbndb.com/covers/24371553482912.jpg",
+        "publisher": "Hachette",
+        "datePublished": "2017-03-08",
+        "pages": 64,
+        "synopsis": "Votre balance yoyote sérieusement ? Bon, pas de panique, on va trouver une solution.   Vous êtes une récidiviste : vous avez tout tenté pour avoir une silhouette de rêve, des régimes « bananes » aux régimes hyperprotéinés, des comptage de calories aux bons plans des copines, de la soupe au chou aux pilules miracle… Après des années de régimes, le constat est toujours le même : pas un kilo de perdu, quelques-uns en bonus au compteur, et puis  vous avez faim !   Ici on ne vous promet pas la Lune, simplement :   des explications pour bien comprendre (pourquoi tous ces régimes ne servent à rien) des astuces pour faire face au quotidien (et ne pas se priver toute l’année) des recettes pour vous préparer des menus équilibrés et adaptés (et qui donnent envie !) des espaces de notes personnalisables (pour vous approprier votre carnet !)",
+        "subjects": [
+          "Professional, Career & Trade",
+          "Culinary & Hospitality",
+          "General Culinary & Hospitality"
+        ],
+        "language": "French"
+      },
+      {
+        "isbn13": "9789463040839",
+        "title": "Ma locomotive",
+        "authors": [
+          "Yoyo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8473363485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09",
+        "pages": 8,
+        "synopsis": "Little ones will enjoy playing with this soft train, while the colourful illustrations in the attached soft book will kindle their imagination.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9788408098317",
+        "title": "Mi pizarra más divertida. Verde",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305183485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098300",
+        "title": "Mi pizarra más divertida. Azul",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305013485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098324",
+        "title": "Mi pizarra más divertida. Amarillo",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305253485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098331",
+        "title": "Mi pizarra más divertida. Rojo",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305323485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9789462449428",
+        "title": "Ma maison enchantée",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/2559253485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09-07",
+        "pages": 12,
+        "synopsis": "Suis les aventures d’Odyssée et d’Orphée dans leur course parmi les fleurs. Leur histoire captivera l’imagination de tous.<br/><br/>Et l’aventure ne s’arrête pas là! Amuse-toi à construire ta propre maison enchantée en 3D et en bois grâce au kit. Tu pourras passer des heures à rejouer les scènes de l’histoire ou encore à inventer de nouvelles aventures.<br/><br/>Tout le monde peut se joindre à un conte de fées!",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789462449411",
+        "title": "Ma jolie ferme",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/2559083485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09-07",
+        "pages": 12,
+        "synopsis": "Ma jolie ferme Suis Attila et Augustin jouant à cache-cache à la ferme. Leur histoire captivera l'imagination de tous. Et l'aventure ne s'arrête pas là ! Amuse-toi à construire ta propre ferme en 3D et en bois grâce au kit. Tu pourras passer des heures à rejouer les scènes de l'histoire ou encore à inventer de nouvelles aventures. Tout le monde peut se joindre à une aventure à la ferme !",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463043052",
+        "title": "X-Mas Red",
+        "authors": [
+          "YoYo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8495493485557.jpg",
+        "publisher": "YoYo Books",
+        "datePublished": "2015-10",
+        "pages": 144,
+        "synopsis": "This book allows children to let their imagination run free and colour with magical pens! The three added felt-tip pens change colour when children use the colour changing pen. Little artists colour with one pen and then magically change the colour to make their drawings even more unique and bright. Let the colouring magic begin!",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789463999205",
+        "title": "Ma lampe magique L'espace",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/18057023485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2021-04-14",
+        "pages": 14,
+        "synopsis": "Explore la nature aux côtés d'Adrien l'astronaute, ton guide. Sors la lampe-torche en carton de sa pochette, collée en première page, et passe-la derrière chaque scène pour découvrir des étoiles, des planètes et d'autres objets étonnants dans l'espace.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547511",
+        "title": "Ma ribambelle d'activités (Chat)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540083485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463048798",
+        "title": "Ma bibliothèque des véhicules !",
+        "authors": [
+          "Yoyo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8552953485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2016-10-07",
+        "pages": 88,
+        "synopsis": "Une bibliothèque roulante qui contient quatre imagiers tout carton sur le thème des véhicules.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547504",
+        "title": "Ma ribambelle d'activités (hippopotame)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540013485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464541724",
+        "title": "Ma lampe d'explorateur Noël",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23482213485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2022-11-02",
+        "pages": 22,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Activities, Crafts & Games",
+          "Activity Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547528",
+        "title": "Ma ribambelle d'activités (crocodile)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540253485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547498",
+        "title": "Ma ribambelle d'activités (souris)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23539953485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464760002",
+        "title": "Ma lampe d'explorateur Noël",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/25664993485557.jpg",
+        "publisher": "Yoyo Books",
+        "datePublished": "2023-10-10",
+        "pages": 19,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Activities, Crafts & Games",
+          "Activity Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463041393",
+        "title": "Book Tower X-mas",
+        "authors": [
+          "YoYo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8478903485557.jpg",
+        "publisher": "YoYo Books",
+        "datePublished": "2015-10",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "Yoyo-MA CELLO",
+    "timestamp": "2026-06-16T21:39:50.337Z",
+    "results": 0,
+    "books": []
+  },
+  {
+    "query": "YO YO MA",
+    "timestamp": "2026-06-16T21:39:58.374Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9781523513604",
+        "title": "Jungle Night (comes with 2 free audio downloads, Yo-Yo Ma, cello)",
+        "authors": [
+          "Sandra Boynton"
+        ],
+        "image": "https://images.isbndb.com/covers/11729343482730.jpg",
+        "publisher": "Workman Publishing",
+        "datePublished": "2021-03-23",
+        "pages": 18,
+        "synopsis": "<p><b>Sandra Boynton and Yo-Yo Ma! Plus snoozing jungle animals!</b><br> Two celebrated artists come together for <b><i>JUNGLE NIGHT</i></b>, a soothing bedtime board book. (Okay, MOSTLY soothing.) The book guides us through the jungle to hear the distinctive, gentle snore of each animal: \"Listen to the tiger: <i>ZEEE-ZOOO-HAAA</i>. Listen to the cheetah: <i>CHEE-CHEE-TAAAH</i>.\" A free downloadable <b><i>JUNGLE NIGHT</i></b> recording offers a narration of the book, with each and every animal snore interpreted by the expressive, playful cello of Yo-Yo Ma. He even does the elephant's stop-the-show snore—though admittedly that took Ma's cello PLUS the classic horn salute of the James R. Barker steamship. (Seriously.) All of this fabulousness leads into the coolest lullaby ever: \"Jungle Gymnopédie No. 1\", a polyrhythmic jungly arrangement by Boynton of Erik Satie's renowned piece, with Yo-Yo Ma on cello, guitar played by Ron Block of Alison Krauss Union Station, and drums by Kevin MacLeod. \"Yo-Yo and I chose this piece because it's the most gorgeous and mesmerizing night song imaginable,\" explains Boynton. \"And there was surely nothing else that could get those animals back to sleep after that elephant blast.\"<br><br>  </p>",
+        "subjects": [
+          "Juvenile Fiction",
+          "Animals",
+          "Jungle Animals",
+          "Bedtime & Dreams",
+          "Concepts",
+          "Sounds",
+          "Elephants"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780062994547",
+        "title": "Playing at the Border A Story of Yo-Yo Ma",
+        "authors": [
+          "Joanna Ho"
+        ],
+        "image": "https://images.isbndb.com/covers/11149573482210.jpg",
+        "publisher": "HarperCollins Publishers",
+        "datePublished": "2021",
+        "pages": 40,
+        "synopsis": "<br> <br> <p>The New York Times bestselling author of Eyes That Kiss in the Corners, Joanna Ho, delivers a poignant picture book biography about the musician Yo-Yo Ma, immigration, and using music to build bridges.</p> <p>Winner of the Ezra Jack Keats Award Honor * Featured in Book Riot's Must Read September 2021 List</p> <p>\"By examining the life of Ma, whose story resonates with courage, persistence, and unity, Ho inspires readers to break barriers of their own.\" --Horn Book (starred review)</p> <p>\"Everyone can benefit from Ho's message of music bringing calm and peace to the world.\" --Booklist </p> <p>\"Hopeful and lovely.\" --Kirkus</p> <p>\"An ambitious portrait of a storied humanitarian with a clear message of advocacy.\" --Publishers Weekly</p> <p>Joanna Ho's lyrical writing and Teresa Martinez's vibrant art weave together to tell an inspiring story of Yo-Yo Ma, who challenges conventions, expectations, and beliefs in order to build bridges to unite communities, people, and cultures. A beautiful picture book biography to enjoy and share in the home and the classroom.</p> <p>Before Yo-Yo Ma became one of the most renowned and celebrated cellists, he wanted to play the double bass. But it was too big for his four-year-old hands. Over time, Ma honed his amazing talent, and his music became a reflection of his own life between borders, cultures, disciplines, and generations.</p> <p>Since then, he has recorded over a hundred albums, won nineteen Grammy Awards, performed for eight American presidents, and received the National Medal of the Arts and the Presidential Medal of Freedom, just to name a few accomplishments.</p> <p>Staying true to himself, Yo-Yo Ma performed at the US-Mexico border at the Rio Grande on April 13, 2019, as part of his multi-continent \"Bach Project\" tour to prove a point--through music, we can build bridges rather than walls between different cultures.</p>",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History",
+          "Asia",
+          "Classical",
+          "Performing Arts",
+          "Social Topics",
+          "Prejudice & Racism",
+          "Emigration & Immigration",
+          "Diversity & Multicultural"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799726",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18847933482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799573",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18846403482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602790773",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18098913482758.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836854978",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26161633482485.jpg",
+        "publisher": "Gareth Stevens Publishing LLLP",
+        "datePublished": "2004-07-08",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410910585",
+        "title": "Yo Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9130753482690.jpg",
+        "publisher": "Heinemann-Raintree Library",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows quiet. Soon they are drawn into a story he tells using his cello.",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History",
+          "Performing Arts",
+          "Science"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410911278",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9137683482690.jpg",
+        "publisher": "Capstone Classroom",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows qu",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836852660",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26138453482485.jpg",
+        "publisher": "World Almanac Library",
+        "datePublished": "2005",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519995",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9213923482457.jpg",
+        "publisher": "Compass Point Books",
+        "datePublished": "2007",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Violoncellists",
+          "Nonfiction",
+          "Juvenile literature",
+          "Biography",
+          "Cellists",
+          "Musicians, juvenile literature",
+          "Musicians"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780766078161",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Therese Shea"
+        ],
+        "image": "https://images.isbndb.com/covers/20538213482460.jpg",
+        "publisher": "Enslow Publishing",
+        "datePublished": "20160715",
+        "pages": 24,
+        "synopsis": "While most people know Yo-Yo Ma as the most famous cellist in the world, they may not know that he actually started out as a violin player—until the four-year-old told his parents he wanted to play a big instrument. Much more than a uniquely talented classical musician, Ma has written an Academy Award-winning film score, played for eight presidents, and appeared on The Simpsons. Readers will enjoy learning about this dynamic man through simple text and vibrant color photos. A Words to Know section familiarizes readers with new vocabulary, and quotes from Ma reflect his beliefs on a range of topics from teachers to multiculturalism.",
+        "subjects": [
+          "English & College Success",
+          "English",
+          "Juvenile Non-Fiction"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9788151579972",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/9928623485090.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781543500141",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/14994183482737.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Chinese Americans",
+          "Cellists",
+          "Juvenile literature",
+          "Chinese americans",
+          "United states, biography",
+          "United states, biography, juvenile literature"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781631378942",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley",
+          "Richard Covington"
+        ],
+        "image": "https://images.isbndb.com/covers/23122703482768.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2014",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Biography"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438145044",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/617443482700.jpg",
+        "publisher": "Infobase Learning",
+        "datePublished": "2013",
+        "pages": 137,
+        "synopsis": "Profiles the life and career of Asian American cellist, Yo-Yo Ma.",
+        "subjects": [
+          "JUVENILE NONFICTION",
+          "Biography & Autobiography",
+          "Science & Technology"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799788",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18848553482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602792128",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18112463482758.jpg",
+        "publisher": "Cherry Lake",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Teen & Young Adult"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781685668761",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/4305093482788.jpg",
+        "publisher": null,
+        "datePublished": "2023",
+        "pages": null,
+        "synopsis": "Born in Paris, France, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites.",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799849",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18849163482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519834",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9212313482457.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2007-04-30",
+        "pages": 112,
+        "synopsis": "<p>From the late 19th century into the 21st century, technological and cultural advancements transformed the world into a new and modern place. These advancements changed the way people lived, worked, and thought about themselves and the world. The combination of all these changes continues to produce what we know as the modern world. Yo-Yo Ma ranks among the world's greatest and most popular cello players. He came to national attention at age 15 when he performed on television. After college, Ma began a career as a solo cellist performing with the world's major orchestras. He has expanded his career to serve as a musical educator and ambassador, sharing the common language of music with others throughout the world.<br></p>",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "yo yo ma",
+    "timestamp": "2026-06-16T21:40:53.091Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9781523513604",
+        "title": "Jungle Night (comes with 2 free audio downloads, Yo-Yo Ma, cello)",
+        "authors": [
+          "Sandra Boynton"
+        ],
+        "image": "https://images.isbndb.com/covers/11729343482730.jpg",
+        "publisher": "Workman Publishing",
+        "datePublished": "2021-03-23",
+        "pages": 18,
+        "synopsis": "<p><b>Sandra Boynton and Yo-Yo Ma! Plus snoozing jungle animals!</b><br> Two celebrated artists come together for <b><i>JUNGLE NIGHT</i></b>, a soothing bedtime board book. (Okay, MOSTLY soothing.) The book guides us through the jungle to hear the distinctive, gentle snore of each animal: \"Listen to the tiger: <i>ZEEE-ZOOO-HAAA</i>. Listen to the cheetah: <i>CHEE-CHEE-TAAAH</i>.\" A free downloadable <b><i>JUNGLE NIGHT</i></b> recording offers a narration of the book, with each and every animal snore interpreted by the expressive, playful cello of Yo-Yo Ma. He even does the elephant's stop-the-show snore—though admittedly that took Ma's cello PLUS the classic horn salute of the James R. Barker steamship. (Seriously.) All of this fabulousness leads into the coolest lullaby ever: \"Jungle Gymnopédie No. 1\", a polyrhythmic jungly arrangement by Boynton of Erik Satie's renowned piece, with Yo-Yo Ma on cello, guitar played by Ron Block of Alison Krauss Union Station, and drums by Kevin MacLeod. \"Yo-Yo and I chose this piece because it's the most gorgeous and mesmerizing night song imaginable,\" explains Boynton. \"And there was surely nothing else that could get those animals back to sleep after that elephant blast.\"<br><br>  </p>",
+        "subjects": [
+          "Juvenile Fiction",
+          "Animals",
+          "Jungle Animals",
+          "Bedtime & Dreams",
+          "Concepts",
+          "Sounds",
+          "Elephants"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780062994547",
+        "title": "Playing at the Border A Story of Yo-Yo Ma",
+        "authors": [
+          "Joanna Ho"
+        ],
+        "image": "https://images.isbndb.com/covers/11149573482210.jpg",
+        "publisher": "HarperCollins Publishers",
+        "datePublished": "2021",
+        "pages": 40,
+        "synopsis": "<br> <br> <p>The New York Times bestselling author of Eyes That Kiss in the Corners, Joanna Ho, delivers a poignant picture book biography about the musician Yo-Yo Ma, immigration, and using music to build bridges.</p> <p>Winner of the Ezra Jack Keats Award Honor * Featured in Book Riot's Must Read September 2021 List</p> <p>\"By examining the life of Ma, whose story resonates with courage, persistence, and unity, Ho inspires readers to break barriers of their own.\" --Horn Book (starred review)</p> <p>\"Everyone can benefit from Ho's message of music bringing calm and peace to the world.\" --Booklist </p> <p>\"Hopeful and lovely.\" --Kirkus</p> <p>\"An ambitious portrait of a storied humanitarian with a clear message of advocacy.\" --Publishers Weekly</p> <p>Joanna Ho's lyrical writing and Teresa Martinez's vibrant art weave together to tell an inspiring story of Yo-Yo Ma, who challenges conventions, expectations, and beliefs in order to build bridges to unite communities, people, and cultures. A beautiful picture book biography to enjoy and share in the home and the classroom.</p> <p>Before Yo-Yo Ma became one of the most renowned and celebrated cellists, he wanted to play the double bass. But it was too big for his four-year-old hands. Over time, Ma honed his amazing talent, and his music became a reflection of his own life between borders, cultures, disciplines, and generations.</p> <p>Since then, he has recorded over a hundred albums, won nineteen Grammy Awards, performed for eight American presidents, and received the National Medal of the Arts and the Presidential Medal of Freedom, just to name a few accomplishments.</p> <p>Staying true to himself, Yo-Yo Ma performed at the US-Mexico border at the Rio Grande on April 13, 2019, as part of his multi-continent \"Bach Project\" tour to prove a point--through music, we can build bridges rather than walls between different cultures.</p>",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History",
+          "Asia",
+          "Classical",
+          "Performing Arts",
+          "Social Topics",
+          "Prejudice & Racism",
+          "Emigration & Immigration",
+          "Diversity & Multicultural"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799726",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18847933482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799573",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18846403482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602790773",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18098913482758.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836854978",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26161633482485.jpg",
+        "publisher": "Gareth Stevens Publishing LLLP",
+        "datePublished": "2004-07-08",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410910585",
+        "title": "Yo Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9130753482690.jpg",
+        "publisher": "Heinemann-Raintree Library",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows quiet. Soon they are drawn into a story he tells using his cello.",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History",
+          "Performing Arts",
+          "Science"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836852660",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26138453482485.jpg",
+        "publisher": "World Almanac Library",
+        "datePublished": "2005",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410911278",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9137683482690.jpg",
+        "publisher": "Capstone Classroom",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows qu",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780766078161",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Therese Shea"
+        ],
+        "image": "https://images.isbndb.com/covers/20538213482460.jpg",
+        "publisher": "Enslow Publishing",
+        "datePublished": "20160715",
+        "pages": 24,
+        "synopsis": "While most people know Yo-Yo Ma as the most famous cellist in the world, they may not know that he actually started out as a violin player—until the four-year-old told his parents he wanted to play a big instrument. Much more than a uniquely talented classical musician, Ma has written an Academy Award-winning film score, played for eight presidents, and appeared on The Simpsons. Readers will enjoy learning about this dynamic man through simple text and vibrant color photos. A Words to Know section familiarizes readers with new vocabulary, and quotes from Ma reflect his beliefs on a range of topics from teachers to multiculturalism.",
+        "subjects": [
+          "English & College Success",
+          "English",
+          "Juvenile Non-Fiction"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9788151579972",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/9928623485090.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519995",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9213923482457.jpg",
+        "publisher": "Compass Point Books",
+        "datePublished": "2007",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Violoncellists",
+          "Nonfiction",
+          "Juvenile literature",
+          "Biography",
+          "Cellists",
+          "Musicians, juvenile literature",
+          "Musicians"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781543500141",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/14994183482737.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Chinese Americans",
+          "Cellists",
+          "Juvenile literature",
+          "Chinese americans",
+          "United states, biography",
+          "United states, biography, juvenile literature"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781631378942",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley",
+          "Richard Covington"
+        ],
+        "image": "https://images.isbndb.com/covers/23122703482768.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2014",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Biography"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781496649218",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/23943383482720.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2020",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438100395",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/170953482700.jpg",
+        "publisher": "Infobase Publishing",
+        "datePublished": "2007",
+        "pages": 121,
+        "synopsis": "Born in Paris, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites. A short time later, Ma immigrated to the United States with his parents, who established a new home in New York City. This biography of Yo-Yo Ma is for musicians or music enthusiasts.",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519834",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9212313482457.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2007-04-30",
+        "pages": 112,
+        "synopsis": "<p>From the late 19th century into the 21st century, technological and cultural advancements transformed the world into a new and modern place. These advancements changed the way people lived, worked, and thought about themselves and the world. The combination of all these changes continues to produce what we know as the modern world. Yo-Yo Ma ranks among the world's greatest and most popular cello players. He came to national attention at age 15 when he performed on television. After college, Ma began a career as a solo cellist performing with the world's major orchestras. He has expanded his career to serve as a musical educator and ambassador, sharing the common language of music with others throughout the world.<br></p>",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438145044",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/617443482700.jpg",
+        "publisher": "Infobase Learning",
+        "datePublished": "2013",
+        "pages": 137,
+        "synopsis": "Profiles the life and career of Asian American cellist, Yo-Yo Ma.",
+        "subjects": [
+          "JUVENILE NONFICTION",
+          "Biography & Autobiography",
+          "Science & Technology"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799788",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18848553482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781685668761",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/4305093482788.jpg",
+        "publisher": null,
+        "datePublished": "2023",
+        "pages": null,
+        "synopsis": "Born in Paris, France, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites.",
+        "subjects": [],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "yoyo ma",
+    "timestamp": "2026-06-16T21:41:00.339Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9789086222636",
+        "title": "Ma journée",
+        "authors": [
+          "Yoyo"
+        ],
+        "image": "https://images.isbndb.com/covers/3787193485423.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2007-09",
+        "pages": 8,
+        "synopsis": null,
+        "subjects": [
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9782035934062",
+        "title": "Ma balance fait le yoyo Au secours qu'est-ce que je mange ?",
+        "authors": [
+          "Elise Delprat-Alvarès"
+        ],
+        "image": "https://images.isbndb.com/covers/24320143482912.jpg",
+        "publisher": "Larousse",
+        "datePublished": "2017-03-08",
+        "pages": 63,
+        "synopsis": "Votre balance yoyote sérieusement ?Bon, pas de panique, on va trouver une solution. Vous êtes une récidiviste : vous avez tout tenté pour avoir une silhouette de rêve, des régimes « bananes » aux régimes hyperprotéinés, des comptage de calories aux bons plans des copines, de la soupe au chou aux pilules miracle...Après des années de régimes, le constat est toujours le même : pas un kilo de perdu, quelques-uns en bonus au compteur, et puis vous avez faim ! Ici on ne vous promet pas la Lune, simplement :des explications pour bien comprendre (pourquoi tous ces régimes ne servent à rien)des astuces pour faire face au quotidien (et ne pas se priver toute l'année)des recettes pour vous préparer des menus équilibrés et adaptés (et qui donnent envie !)des espaces de notes personnalisables (pour vous approprier votre carnet !).",
+        "subjects": [
+          "Reference"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9782035939203",
+        "title": "Ma balance fait le yoyo, au secours qu'est-ce que je mange ?",
+        "authors": [
+          "Élise Delprat-Alvarès"
+        ],
+        "image": "https://images.isbndb.com/covers/24371553482912.jpg",
+        "publisher": "Hachette",
+        "datePublished": "2017-03-08",
+        "pages": 64,
+        "synopsis": "Votre balance yoyote sérieusement ? Bon, pas de panique, on va trouver une solution.   Vous êtes une récidiviste : vous avez tout tenté pour avoir une silhouette de rêve, des régimes « bananes » aux régimes hyperprotéinés, des comptage de calories aux bons plans des copines, de la soupe au chou aux pilules miracle… Après des années de régimes, le constat est toujours le même : pas un kilo de perdu, quelques-uns en bonus au compteur, et puis  vous avez faim !   Ici on ne vous promet pas la Lune, simplement :   des explications pour bien comprendre (pourquoi tous ces régimes ne servent à rien) des astuces pour faire face au quotidien (et ne pas se priver toute l’année) des recettes pour vous préparer des menus équilibrés et adaptés (et qui donnent envie !) des espaces de notes personnalisables (pour vous approprier votre carnet !)",
+        "subjects": [
+          "Professional, Career & Trade",
+          "Culinary & Hospitality",
+          "General Culinary & Hospitality"
+        ],
+        "language": "French"
+      },
+      {
+        "isbn13": "9789463040839",
+        "title": "Ma locomotive",
+        "authors": [
+          "Yoyo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8473363485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09",
+        "pages": 8,
+        "synopsis": "Little ones will enjoy playing with this soft train, while the colourful illustrations in the attached soft book will kindle their imagination.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9788408098317",
+        "title": "Mi pizarra más divertida. Verde",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305183485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098300",
+        "title": "Mi pizarra más divertida. Azul",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305013485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098324",
+        "title": "Mi pizarra más divertida. Amarillo",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305253485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9788408098331",
+        "title": "Mi pizarra más divertida. Rojo",
+        "authors": [
+          "YOYO"
+        ],
+        "image": "https://images.isbndb.com/covers/19305323485181.jpg",
+        "publisher": "Yoyo",
+        "datePublished": "2011-09-02",
+        "pages": 12,
+        "synopsis": "Libro-pizarra que incluye cuatro tizas de colores, con las que el niño podrá dibujar y realizar juegos divertidos en compañía de los personajes protagonistas. Al finalizar, podrá borrar todo con un trapo y volver a comenzar tantas veces como quiera. Ideal tanto para los más pequeños a los que les guste dibujar como para niños un poco más mayores que empiezan a escribir.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "es"
+      },
+      {
+        "isbn13": "9789462449428",
+        "title": "Ma maison enchantée",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/2559253485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09-07",
+        "pages": 12,
+        "synopsis": "Suis les aventures d’Odyssée et d’Orphée dans leur course parmi les fleurs. Leur histoire captivera l’imagination de tous.<br/><br/>Et l’aventure ne s’arrête pas là! Amuse-toi à construire ta propre maison enchantée en 3D et en bois grâce au kit. Tu pourras passer des heures à rejouer les scènes de l’histoire ou encore à inventer de nouvelles aventures.<br/><br/>Tout le monde peut se joindre à un conte de fées!",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789462449411",
+        "title": "Ma jolie ferme",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/2559083485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2015-09-07",
+        "pages": 12,
+        "synopsis": "Ma jolie ferme Suis Attila et Augustin jouant à cache-cache à la ferme. Leur histoire captivera l'imagination de tous. Et l'aventure ne s'arrête pas là ! Amuse-toi à construire ta propre ferme en 3D et en bois grâce au kit. Tu pourras passer des heures à rejouer les scènes de l'histoire ou encore à inventer de nouvelles aventures. Tout le monde peut se joindre à une aventure à la ferme !",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463043052",
+        "title": "X-Mas Red",
+        "authors": [
+          "YoYo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8495493485557.jpg",
+        "publisher": "YoYo Books",
+        "datePublished": "2015-10",
+        "pages": 144,
+        "synopsis": "This book allows children to let their imagination run free and colour with magical pens! The three added felt-tip pens change colour when children use the colour changing pen. Little artists colour with one pen and then magically change the colour to make their drawings even more unique and bright. Let the colouring magic begin!",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9789463999205",
+        "title": "Ma lampe magique L'espace",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/18057023485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2021-04-14",
+        "pages": 14,
+        "synopsis": "Explore la nature aux côtés d'Adrien l'astronaute, ton guide. Sors la lampe-torche en carton de sa pochette, collée en première page, et passe-la derrière chaque scène pour découvrir des étoiles, des planètes et d'autres objets étonnants dans l'espace.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547511",
+        "title": "Ma ribambelle d'activités (Chat)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540083485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464541724",
+        "title": "Ma lampe d'explorateur Noël",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23482213485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2022-11-02",
+        "pages": 22,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Activities, Crafts & Games",
+          "Activity Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547504",
+        "title": "Ma ribambelle d'activités (hippopotame)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540013485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463048798",
+        "title": "Ma bibliothèque des véhicules !",
+        "authors": [
+          "Yoyo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8552953485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2016-10-07",
+        "pages": 88,
+        "synopsis": "Une bibliothèque roulante qui contient quatre imagiers tout carton sur le thème des véhicules.",
+        "subjects": [
+          "Children's Books"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464760002",
+        "title": "Ma lampe d'explorateur Noël",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/25664993485557.jpg",
+        "publisher": "Yoyo Books",
+        "datePublished": "2023-10-10",
+        "pages": 19,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Activities, Crafts & Games",
+          "Activity Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547528",
+        "title": "Ma ribambelle d'activités (crocodile)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23540253485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789464547498",
+        "title": "Ma ribambelle d'activités (souris)",
+        "authors": [
+          "Yoyo éditions"
+        ],
+        "image": "https://images.isbndb.com/covers/23539953485557.jpg",
+        "publisher": "Yoyo Editions",
+        "datePublished": "2023-06-20",
+        "pages": 96,
+        "synopsis": null,
+        "subjects": [
+          "Children's Books",
+          "Arborist Merchandising Root",
+          "Self Service"
+        ],
+        "language": "fr"
+      },
+      {
+        "isbn13": "9789463041393",
+        "title": "Book Tower X-mas",
+        "authors": [
+          "YoYo Books"
+        ],
+        "image": "https://images.isbndb.com/covers/8478903485557.jpg",
+        "publisher": "YoYo Books",
+        "datePublished": "2015-10",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "YO YO MA",
+    "timestamp": "2026-06-16T21:41:44.360Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9781523513604",
+        "title": "Jungle Night (comes with 2 free audio downloads, Yo-Yo Ma, cello)",
+        "authors": [
+          "Sandra Boynton"
+        ],
+        "image": "https://images.isbndb.com/covers/11729343482730.jpg",
+        "publisher": "Workman Publishing",
+        "datePublished": "2021-03-23",
+        "pages": 18,
+        "synopsis": "<p><b>Sandra Boynton and Yo-Yo Ma! Plus snoozing jungle animals!</b><br> Two celebrated artists come together for <b><i>JUNGLE NIGHT</i></b>, a soothing bedtime board book. (Okay, MOSTLY soothing.) The book guides us through the jungle to hear the distinctive, gentle snore of each animal: \"Listen to the tiger: <i>ZEEE-ZOOO-HAAA</i>. Listen to the cheetah: <i>CHEE-CHEE-TAAAH</i>.\" A free downloadable <b><i>JUNGLE NIGHT</i></b> recording offers a narration of the book, with each and every animal snore interpreted by the expressive, playful cello of Yo-Yo Ma. He even does the elephant's stop-the-show snore—though admittedly that took Ma's cello PLUS the classic horn salute of the James R. Barker steamship. (Seriously.) All of this fabulousness leads into the coolest lullaby ever: \"Jungle Gymnopédie No. 1\", a polyrhythmic jungly arrangement by Boynton of Erik Satie's renowned piece, with Yo-Yo Ma on cello, guitar played by Ron Block of Alison Krauss Union Station, and drums by Kevin MacLeod. \"Yo-Yo and I chose this piece because it's the most gorgeous and mesmerizing night song imaginable,\" explains Boynton. \"And there was surely nothing else that could get those animals back to sleep after that elephant blast.\"<br><br>  </p>",
+        "subjects": [
+          "Juvenile Fiction",
+          "Animals",
+          "Jungle Animals",
+          "Bedtime & Dreams",
+          "Concepts",
+          "Sounds",
+          "Elephants"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780062994547",
+        "title": "Playing at the Border A Story of Yo-Yo Ma",
+        "authors": [
+          "Joanna Ho"
+        ],
+        "image": "https://images.isbndb.com/covers/11149573482210.jpg",
+        "publisher": "HarperCollins Publishers",
+        "datePublished": "2021",
+        "pages": 40,
+        "synopsis": "<br> <br> <p>The New York Times bestselling author of Eyes That Kiss in the Corners, Joanna Ho, delivers a poignant picture book biography about the musician Yo-Yo Ma, immigration, and using music to build bridges.</p> <p>Winner of the Ezra Jack Keats Award Honor * Featured in Book Riot's Must Read September 2021 List</p> <p>\"By examining the life of Ma, whose story resonates with courage, persistence, and unity, Ho inspires readers to break barriers of their own.\" --Horn Book (starred review)</p> <p>\"Everyone can benefit from Ho's message of music bringing calm and peace to the world.\" --Booklist </p> <p>\"Hopeful and lovely.\" --Kirkus</p> <p>\"An ambitious portrait of a storied humanitarian with a clear message of advocacy.\" --Publishers Weekly</p> <p>Joanna Ho's lyrical writing and Teresa Martinez's vibrant art weave together to tell an inspiring story of Yo-Yo Ma, who challenges conventions, expectations, and beliefs in order to build bridges to unite communities, people, and cultures. A beautiful picture book biography to enjoy and share in the home and the classroom.</p> <p>Before Yo-Yo Ma became one of the most renowned and celebrated cellists, he wanted to play the double bass. But it was too big for his four-year-old hands. Over time, Ma honed his amazing talent, and his music became a reflection of his own life between borders, cultures, disciplines, and generations.</p> <p>Since then, he has recorded over a hundred albums, won nineteen Grammy Awards, performed for eight American presidents, and received the National Medal of the Arts and the Presidential Medal of Freedom, just to name a few accomplishments.</p> <p>Staying true to himself, Yo-Yo Ma performed at the US-Mexico border at the Rio Grande on April 13, 2019, as part of his multi-continent \"Bach Project\" tour to prove a point--through music, we can build bridges rather than walls between different cultures.</p>",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History",
+          "Asia",
+          "Classical",
+          "Performing Arts",
+          "Social Topics",
+          "Prejudice & Racism",
+          "Emigration & Immigration",
+          "Diversity & Multicultural"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799726",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18847933482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799573",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18846403482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410910585",
+        "title": "Yo Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9130753482690.jpg",
+        "publisher": "Heinemann-Raintree Library",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows quiet. Soon they are drawn into a story he tells using his cello.",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History",
+          "Performing Arts",
+          "Science"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602790773",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18098913482758.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836854978",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26161633482485.jpg",
+        "publisher": "Gareth Stevens Publishing LLLP",
+        "datePublished": "2004-07-08",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410911278",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9137683482690.jpg",
+        "publisher": "Capstone Classroom",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows qu",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836852660",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26138453482485.jpg",
+        "publisher": "World Almanac Library",
+        "datePublished": "2005",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519995",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9213923482457.jpg",
+        "publisher": "Compass Point Books",
+        "datePublished": "2007",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Violoncellists",
+          "Nonfiction",
+          "Juvenile literature",
+          "Biography",
+          "Cellists",
+          "Musicians, juvenile literature",
+          "Musicians"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780766078161",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Therese Shea"
+        ],
+        "image": "https://images.isbndb.com/covers/20538213482460.jpg",
+        "publisher": "Enslow Publishing",
+        "datePublished": "20160715",
+        "pages": 24,
+        "synopsis": "While most people know Yo-Yo Ma as the most famous cellist in the world, they may not know that he actually started out as a violin player—until the four-year-old told his parents he wanted to play a big instrument. Much more than a uniquely talented classical musician, Ma has written an Academy Award-winning film score, played for eight presidents, and appeared on The Simpsons. Readers will enjoy learning about this dynamic man through simple text and vibrant color photos. A Words to Know section familiarizes readers with new vocabulary, and quotes from Ma reflect his beliefs on a range of topics from teachers to multiculturalism.",
+        "subjects": [
+          "English & College Success",
+          "English",
+          "Juvenile Non-Fiction"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9788151579972",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/9928623485090.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781543500141",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/14994183482737.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Chinese Americans",
+          "Cellists",
+          "Juvenile literature",
+          "Chinese americans",
+          "United states, biography",
+          "United states, biography, juvenile literature"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781631378942",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley",
+          "Richard Covington"
+        ],
+        "image": "https://images.isbndb.com/covers/23122703482768.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2014",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Biography"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438145044",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/617443482700.jpg",
+        "publisher": "Infobase Learning",
+        "datePublished": "2013",
+        "pages": 137,
+        "synopsis": "Profiles the life and career of Asian American cellist, Yo-Yo Ma.",
+        "subjects": [
+          "JUVENILE NONFICTION",
+          "Biography & Autobiography",
+          "Science & Technology"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799788",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18848553482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602792128",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18112463482758.jpg",
+        "publisher": "Cherry Lake",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Teen & Young Adult"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781685668761",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/4305093482788.jpg",
+        "publisher": null,
+        "datePublished": "2023",
+        "pages": null,
+        "synopsis": "Born in Paris, France, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites.",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799849",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18849163482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519834",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9212313482457.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2007-04-30",
+        "pages": 112,
+        "synopsis": "<p>From the late 19th century into the 21st century, technological and cultural advancements transformed the world into a new and modern place. These advancements changed the way people lived, worked, and thought about themselves and the world. The combination of all these changes continues to produce what we know as the modern world. Yo-Yo Ma ranks among the world's greatest and most popular cello players. He came to national attention at age 15 when he performed on television. After college, Ma began a career as a solo cellist performing with the world's major orchestras. He has expanded his career to serve as a musical educator and ambassador, sharing the common language of music with others throughout the world.<br></p>",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "Yo-Yo Ma",
+    "timestamp": "2026-06-16T21:42:13.861Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9781523513604",
+        "title": "Jungle Night (comes with 2 free audio downloads, Yo-Yo Ma, cello)",
+        "authors": [
+          "Sandra Boynton"
+        ],
+        "image": "https://images.isbndb.com/covers/11729343482730.jpg",
+        "publisher": "Workman Publishing",
+        "datePublished": "2021-03-23",
+        "pages": 18,
+        "synopsis": "<p><b>Sandra Boynton and Yo-Yo Ma! Plus snoozing jungle animals!</b><br> Two celebrated artists come together for <b><i>JUNGLE NIGHT</i></b>, a soothing bedtime board book. (Okay, MOSTLY soothing.) The book guides us through the jungle to hear the distinctive, gentle snore of each animal: \"Listen to the tiger: <i>ZEEE-ZOOO-HAAA</i>. Listen to the cheetah: <i>CHEE-CHEE-TAAAH</i>.\" A free downloadable <b><i>JUNGLE NIGHT</i></b> recording offers a narration of the book, with each and every animal snore interpreted by the expressive, playful cello of Yo-Yo Ma. He even does the elephant's stop-the-show snore—though admittedly that took Ma's cello PLUS the classic horn salute of the James R. Barker steamship. (Seriously.) All of this fabulousness leads into the coolest lullaby ever: \"Jungle Gymnopédie No. 1\", a polyrhythmic jungly arrangement by Boynton of Erik Satie's renowned piece, with Yo-Yo Ma on cello, guitar played by Ron Block of Alison Krauss Union Station, and drums by Kevin MacLeod. \"Yo-Yo and I chose this piece because it's the most gorgeous and mesmerizing night song imaginable,\" explains Boynton. \"And there was surely nothing else that could get those animals back to sleep after that elephant blast.\"<br><br>  </p>",
+        "subjects": [
+          "Juvenile Fiction",
+          "Animals",
+          "Jungle Animals",
+          "Bedtime & Dreams",
+          "Concepts",
+          "Sounds",
+          "Elephants"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780062994547",
+        "title": "Playing at the Border A Story of Yo-Yo Ma",
+        "authors": [
+          "Joanna Ho"
+        ],
+        "image": "https://images.isbndb.com/covers/11149573482210.jpg",
+        "publisher": "HarperCollins Publishers",
+        "datePublished": "2021",
+        "pages": 40,
+        "synopsis": "<br> <br> <p>The New York Times bestselling author of Eyes That Kiss in the Corners, Joanna Ho, delivers a poignant picture book biography about the musician Yo-Yo Ma, immigration, and using music to build bridges.</p> <p>Winner of the Ezra Jack Keats Award Honor * Featured in Book Riot's Must Read September 2021 List</p> <p>\"By examining the life of Ma, whose story resonates with courage, persistence, and unity, Ho inspires readers to break barriers of their own.\" --Horn Book (starred review)</p> <p>\"Everyone can benefit from Ho's message of music bringing calm and peace to the world.\" --Booklist </p> <p>\"Hopeful and lovely.\" --Kirkus</p> <p>\"An ambitious portrait of a storied humanitarian with a clear message of advocacy.\" --Publishers Weekly</p> <p>Joanna Ho's lyrical writing and Teresa Martinez's vibrant art weave together to tell an inspiring story of Yo-Yo Ma, who challenges conventions, expectations, and beliefs in order to build bridges to unite communities, people, and cultures. A beautiful picture book biography to enjoy and share in the home and the classroom.</p> <p>Before Yo-Yo Ma became one of the most renowned and celebrated cellists, he wanted to play the double bass. But it was too big for his four-year-old hands. Over time, Ma honed his amazing talent, and his music became a reflection of his own life between borders, cultures, disciplines, and generations.</p> <p>Since then, he has recorded over a hundred albums, won nineteen Grammy Awards, performed for eight American presidents, and received the National Medal of the Arts and the Presidential Medal of Freedom, just to name a few accomplishments.</p> <p>Staying true to himself, Yo-Yo Ma performed at the US-Mexico border at the Rio Grande on April 13, 2019, as part of his multi-continent \"Bach Project\" tour to prove a point--through music, we can build bridges rather than walls between different cultures.</p>",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History",
+          "Asia",
+          "Classical",
+          "Performing Arts",
+          "Social Topics",
+          "Prejudice & Racism",
+          "Emigration & Immigration",
+          "Diversity & Multicultural"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799726",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18847933482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799573",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18846403482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410910585",
+        "title": "Yo Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9130753482690.jpg",
+        "publisher": "Heinemann-Raintree Library",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows quiet. Soon they are drawn into a story he tells using his cello.",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History",
+          "Performing Arts",
+          "Science"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602790773",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18098913482758.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836854978",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26161633482485.jpg",
+        "publisher": "Gareth Stevens Publishing LLLP",
+        "datePublished": "2004-07-08",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836852660",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26138453482485.jpg",
+        "publisher": "World Almanac Library",
+        "datePublished": "2005",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410911278",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9137683482690.jpg",
+        "publisher": "Capstone Classroom",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows qu",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780766078161",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Therese Shea"
+        ],
+        "image": "https://images.isbndb.com/covers/20538213482460.jpg",
+        "publisher": "Enslow Publishing",
+        "datePublished": "20160715",
+        "pages": 24,
+        "synopsis": "While most people know Yo-Yo Ma as the most famous cellist in the world, they may not know that he actually started out as a violin player—until the four-year-old told his parents he wanted to play a big instrument. Much more than a uniquely talented classical musician, Ma has written an Academy Award-winning film score, played for eight presidents, and appeared on The Simpsons. Readers will enjoy learning about this dynamic man through simple text and vibrant color photos. A Words to Know section familiarizes readers with new vocabulary, and quotes from Ma reflect his beliefs on a range of topics from teachers to multiculturalism.",
+        "subjects": [
+          "English & College Success",
+          "English",
+          "Juvenile Non-Fiction"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9788151579972",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/9928623485090.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519995",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9213923482457.jpg",
+        "publisher": "Compass Point Books",
+        "datePublished": "2007",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Violoncellists",
+          "Nonfiction",
+          "Juvenile literature",
+          "Biography",
+          "Cellists",
+          "Musicians, juvenile literature",
+          "Musicians"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781543500141",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/14994183482737.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Chinese Americans",
+          "Cellists",
+          "Juvenile literature",
+          "Chinese americans",
+          "United states, biography",
+          "United states, biography, juvenile literature"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781631378942",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley",
+          "Richard Covington"
+        ],
+        "image": "https://images.isbndb.com/covers/23122703482768.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2014",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Biography"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781496649218",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/23943383482720.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2020",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438100395",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/170953482700.jpg",
+        "publisher": "Infobase Publishing",
+        "datePublished": "2007",
+        "pages": 121,
+        "synopsis": "Born in Paris, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites. A short time later, Ma immigrated to the United States with his parents, who established a new home in New York City. This biography of Yo-Yo Ma is for musicians or music enthusiasts.",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519834",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9212313482457.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2007-04-30",
+        "pages": 112,
+        "synopsis": "<p>From the late 19th century into the 21st century, technological and cultural advancements transformed the world into a new and modern place. These advancements changed the way people lived, worked, and thought about themselves and the world. The combination of all these changes continues to produce what we know as the modern world. Yo-Yo Ma ranks among the world's greatest and most popular cello players. He came to national attention at age 15 when he performed on television. After college, Ma began a career as a solo cellist performing with the world's major orchestras. He has expanded his career to serve as a musical educator and ambassador, sharing the common language of music with others throughout the world.<br></p>",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438145044",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/617443482700.jpg",
+        "publisher": "Infobase Learning",
+        "datePublished": "2013",
+        "pages": 137,
+        "synopsis": "Profiles the life and career of Asian American cellist, Yo-Yo Ma.",
+        "subjects": [
+          "JUVENILE NONFICTION",
+          "Biography & Autobiography",
+          "Science & Technology"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799788",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18848553482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781685668761",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/4305093482788.jpg",
+        "publisher": null,
+        "datePublished": "2023",
+        "pages": null,
+        "synopsis": "Born in Paris, France, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites.",
+        "subjects": [],
+        "language": "en"
+      }
+    ]
+  },
+  {
+    "query": "Yo-Yo Ma",
+    "timestamp": "2026-06-16T21:42:17.060Z",
+    "results": 20,
+    "books": [
+      {
+        "isbn13": "9781523513604",
+        "title": "Jungle Night (comes with 2 free audio downloads, Yo-Yo Ma, cello)",
+        "authors": [
+          "Sandra Boynton"
+        ],
+        "image": "https://images.isbndb.com/covers/11729343482730.jpg",
+        "publisher": "Workman Publishing",
+        "datePublished": "2021-03-23",
+        "pages": 18,
+        "synopsis": "<p><b>Sandra Boynton and Yo-Yo Ma! Plus snoozing jungle animals!</b><br> Two celebrated artists come together for <b><i>JUNGLE NIGHT</i></b>, a soothing bedtime board book. (Okay, MOSTLY soothing.) The book guides us through the jungle to hear the distinctive, gentle snore of each animal: \"Listen to the tiger: <i>ZEEE-ZOOO-HAAA</i>. Listen to the cheetah: <i>CHEE-CHEE-TAAAH</i>.\" A free downloadable <b><i>JUNGLE NIGHT</i></b> recording offers a narration of the book, with each and every animal snore interpreted by the expressive, playful cello of Yo-Yo Ma. He even does the elephant's stop-the-show snore—though admittedly that took Ma's cello PLUS the classic horn salute of the James R. Barker steamship. (Seriously.) All of this fabulousness leads into the coolest lullaby ever: \"Jungle Gymnopédie No. 1\", a polyrhythmic jungly arrangement by Boynton of Erik Satie's renowned piece, with Yo-Yo Ma on cello, guitar played by Ron Block of Alison Krauss Union Station, and drums by Kevin MacLeod. \"Yo-Yo and I chose this piece because it's the most gorgeous and mesmerizing night song imaginable,\" explains Boynton. \"And there was surely nothing else that could get those animals back to sleep after that elephant blast.\"<br><br>  </p>",
+        "subjects": [
+          "Juvenile Fiction",
+          "Animals",
+          "Jungle Animals",
+          "Bedtime & Dreams",
+          "Concepts",
+          "Sounds",
+          "Elephants"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780062994547",
+        "title": "Playing at the Border A Story of Yo-Yo Ma",
+        "authors": [
+          "Joanna Ho"
+        ],
+        "image": "https://images.isbndb.com/covers/11149573482210.jpg",
+        "publisher": "HarperCollins Publishers",
+        "datePublished": "2021",
+        "pages": 40,
+        "synopsis": "<br> <br> <p>The New York Times bestselling author of Eyes That Kiss in the Corners, Joanna Ho, delivers a poignant picture book biography about the musician Yo-Yo Ma, immigration, and using music to build bridges.</p> <p>Winner of the Ezra Jack Keats Award Honor * Featured in Book Riot's Must Read September 2021 List</p> <p>\"By examining the life of Ma, whose story resonates with courage, persistence, and unity, Ho inspires readers to break barriers of their own.\" --Horn Book (starred review)</p> <p>\"Everyone can benefit from Ho's message of music bringing calm and peace to the world.\" --Booklist </p> <p>\"Hopeful and lovely.\" --Kirkus</p> <p>\"An ambitious portrait of a storied humanitarian with a clear message of advocacy.\" --Publishers Weekly</p> <p>Joanna Ho's lyrical writing and Teresa Martinez's vibrant art weave together to tell an inspiring story of Yo-Yo Ma, who challenges conventions, expectations, and beliefs in order to build bridges to unite communities, people, and cultures. A beautiful picture book biography to enjoy and share in the home and the classroom.</p> <p>Before Yo-Yo Ma became one of the most renowned and celebrated cellists, he wanted to play the double bass. But it was too big for his four-year-old hands. Over time, Ma honed his amazing talent, and his music became a reflection of his own life between borders, cultures, disciplines, and generations.</p> <p>Since then, he has recorded over a hundred albums, won nineteen Grammy Awards, performed for eight American presidents, and received the National Medal of the Arts and the Presidential Medal of Freedom, just to name a few accomplishments.</p> <p>Staying true to himself, Yo-Yo Ma performed at the US-Mexico border at the Rio Grande on April 13, 2019, as part of his multi-continent \"Bach Project\" tour to prove a point--through music, we can build bridges rather than walls between different cultures.</p>",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History",
+          "Asia",
+          "Classical",
+          "Performing Arts",
+          "Social Topics",
+          "Prejudice & Racism",
+          "Emigration & Immigration",
+          "Diversity & Multicultural"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799726",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18847933482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799573",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18846403482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602790773",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18098913482758.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836854978",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26161633482485.jpg",
+        "publisher": "Gareth Stevens Publishing LLLP",
+        "datePublished": "2004-07-08",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410910585",
+        "title": "Yo Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9130753482690.jpg",
+        "publisher": "Heinemann-Raintree Library",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows quiet. Soon they are drawn into a story he tells using his cello.",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History",
+          "Performing Arts",
+          "Science"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781410911278",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Mary Olmstead"
+        ],
+        "image": "https://images.isbndb.com/covers/9137683482690.jpg",
+        "publisher": "Capstone Classroom",
+        "datePublished": "2005-08-19",
+        "pages": 64,
+        "synopsis": "Listening to Yo-Yo Ma play the cello in concert is magical. He springs onto the stage with youthful energy. He greets the audience and the orchestra with a warm smile. Taking up his cello, he cradles the large instrument in his arms. The audience grows qu",
+        "subjects": [
+          "Biography & Autobiography",
+          "Juvenile Nonfiction",
+          "Art",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780836852660",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Susan Ashley"
+        ],
+        "image": "https://images.isbndb.com/covers/26138453482485.jpg",
+        "publisher": "World Almanac Library",
+        "datePublished": "2005",
+        "pages": 48,
+        "synopsis": "Straight from the pages of the Noted Personalities section of The World Almanac comes this refreshingly original series of biographies. Chronicling the lives of the most important people of the 20th century, these books give student readers a powerful resource for understanding how their world came to be what it is today. Enriched with historic photos of the life and times of the people being profiled, and with excerpts from primary source documents, this series will inspire critical thinking, further research, and additional reading. Each book is more than just the story of an individual. It is a powerful social history of the world one person was born into.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "History"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519995",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9213923482457.jpg",
+        "publisher": "Compass Point Books",
+        "datePublished": "2007",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Violoncellists",
+          "Nonfiction",
+          "Juvenile literature",
+          "Biography",
+          "Cellists",
+          "Musicians, juvenile literature",
+          "Musicians"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780766078161",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Therese Shea"
+        ],
+        "image": "https://images.isbndb.com/covers/20538213482460.jpg",
+        "publisher": "Enslow Publishing",
+        "datePublished": "20160715",
+        "pages": 24,
+        "synopsis": "While most people know Yo-Yo Ma as the most famous cellist in the world, they may not know that he actually started out as a violin player—until the four-year-old told his parents he wanted to play a big instrument. Much more than a uniquely talented classical musician, Ma has written an Academy Award-winning film score, played for eight presidents, and appeared on The Simpsons. Readers will enjoy learning about this dynamic man through simple text and vibrant color photos. A Words to Know section familiarizes readers with new vocabulary, and quotes from Ma reflect his beliefs on a range of topics from teachers to multiculturalism.",
+        "subjects": [
+          "English & College Success",
+          "English",
+          "Juvenile Non-Fiction"
+        ],
+        "language": "English"
+      },
+      {
+        "isbn13": "9788151579972",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/9928623485090.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": null,
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781543500141",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/14994183482737.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018-01-01",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Chinese Americans",
+          "Cellists",
+          "Juvenile literature",
+          "Chinese americans",
+          "United states, biography",
+          "United states, biography, juvenile literature"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781631378942",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley",
+          "Richard Covington"
+        ],
+        "image": "https://images.isbndb.com/covers/23122703482768.jpg",
+        "publisher": "Cherry Lake Publishing",
+        "datePublished": "2014",
+        "pages": null,
+        "synopsis": null,
+        "subjects": [
+          "Biography"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781438145044",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/617443482700.jpg",
+        "publisher": "Infobase Learning",
+        "datePublished": "2013",
+        "pages": 137,
+        "synopsis": "Profiles the life and career of Asian American cellist, Yo-Yo Ma.",
+        "subjects": [
+          "JUVENILE NONFICTION",
+          "Biography & Autobiography",
+          "Science & Technology"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799788",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18848553482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "United States",
+          "Asian American & Pacific Islander",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781602792128",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Annie Buckley"
+        ],
+        "image": "https://images.isbndb.com/covers/18112463482758.jpg",
+        "publisher": "Cherry Lake",
+        "datePublished": "2007-08-01",
+        "pages": 48,
+        "synopsis": "Yo-Yo Ma is a world-class cellist who has won numerous Grammy awards and is beloved by audiences worldwide. Readers will discover how hard work and talent helped Ma rise to the top and how he uses his gifts to promote unity by bringing together musicians from around the world in his Silk Road Project.",
+        "subjects": [
+          "Teen & Young Adult"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781685668761",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Richard Worth"
+        ],
+        "image": "https://images.isbndb.com/covers/4305093482788.jpg",
+        "publisher": null,
+        "datePublished": "2023",
+        "pages": null,
+        "synopsis": "Born in Paris, France, to Chinese parents, Yo-Yo Ma began playing the cello when he was a child. At the age of five he was already playing Bach's challenging cello suites.",
+        "subjects": [],
+        "language": "en"
+      },
+      {
+        "isbn13": "9781515799849",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Stephanie Cham"
+        ],
+        "image": "https://images.isbndb.com/covers/18849163482727.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2018",
+        "pages": 24,
+        "synopsis": "How did Yo-Yo Ma become a world-renowned cellist? Readers will learn all about this musician and the significant events in his life in this low-leveled biography.",
+        "subjects": [
+          "Juvenile Nonfiction",
+          "Biography & Autobiography",
+          "Music",
+          "Cultural, Ethnic & Regional",
+          "People & Places",
+          "Asia"
+        ],
+        "language": "en"
+      },
+      {
+        "isbn13": "9780756519834",
+        "title": "Yo-Yo Ma",
+        "authors": [
+          "Myra Weatherly"
+        ],
+        "image": "https://images.isbndb.com/covers/9212313482457.jpg",
+        "publisher": "Capstone",
+        "datePublished": "2007-04-30",
+        "pages": 112,
+        "synopsis": "<p>From the late 19th century into the 21st century, technological and cultural advancements transformed the world into a new and modern place. These advancements changed the way people lived, worked, and thought about themselves and the world. The combination of all these changes continues to produce what we know as the modern world. Yo-Yo Ma ranks among the world's greatest and most popular cello players. He came to national attention at age 15 when he performed on television. After college, Ma began a career as a solo cellist performing with the world's major orchestras. He has expanded his career to serve as a musical educator and ambassador, sharing the common language of music with others throughout the world.<br></p>",
+        "subjects": [
+          "Juvenile Nonfiction"
+        ],
+        "language": "en"
+      }
+    ]
+  }
+]

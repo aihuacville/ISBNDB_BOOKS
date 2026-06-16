@@ -54,6 +54,91 @@ interface Book {
   title: string;
   authors: string[];
   image: string | null;
+  publisher: string | null;
+  datePublished: string | null;
+  pages: number | null;
+  synopsis: string | null;
+  subjects: string[];
+  language: string | null;
+}
+
+function BookDetailModal({
+  book,
+  onClose,
+}: {
+  book: Book;
+  onClose: () => void;
+}) {
+  useEffect(() => {
+    function onKey(e: KeyboardEvent) {
+      if (e.key === "Escape") onClose();
+    }
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [onClose]);
+
+  return (
+    <div className="modal-overlay" onClick={onClose}>
+      <div className="modal" onClick={(e) => e.stopPropagation()}>
+        <button className="modal-close" onClick={onClose} aria-label="Close">
+          ×
+        </button>
+
+        <div className="modal-header">
+          {book.image ? (
+            <div className="modal-cover">
+              <Image
+                src={book.image}
+                alt={book.title}
+                width={100}
+                height={148}
+                style={{ borderRadius: 6, display: "block" }}
+                unoptimized
+              />
+            </div>
+          ) : (
+            <div className="modal-cover modal-cover-placeholder" />
+          )}
+          <div className="modal-info">
+            <h3>{book.title}</h3>
+            {book.authors.length > 0 && (
+              <div className="book-authors">{book.authors.join(", ")}</div>
+            )}
+            {book.publisher && (
+              <div className="modal-meta">Publisher: {book.publisher}</div>
+            )}
+            {book.datePublished && (
+              <div className="modal-meta">Published: {book.datePublished}</div>
+            )}
+            {book.pages && (
+              <div className="modal-meta">{book.pages} pages</div>
+            )}
+            {book.language && (
+              <div className="modal-meta">Language: {book.language}</div>
+            )}
+            <div className="modal-meta">ISBN-13: {book.isbn13}</div>
+          </div>
+        </div>
+
+        {book.synopsis && (
+          <div
+            className="modal-synopsis"
+            dangerouslySetInnerHTML={{ __html: book.synopsis }}
+          />
+        )}
+
+        {book.subjects.length > 0 && (
+          <div className="modal-subjects">
+            {book.subjects.map((s) => (
+              <span key={s} className="subject-tag">
+                {s}
+              </span>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+  );
 }
 
 export default function BookSearch() {
@@ -66,14 +151,9 @@ export default function BookSearch() {
   const [books, setBooks] = useState<Book[] | null>(null);
   const [status, setStatus] = useState<"idle" | "loading" | "error">("idle");
   const [errorMessage, setErrorMessage] = useState("");
+  const [selectedBook, setSelectedBook] = useState<Book | null>(null);
   const wrapperRef = useRef<HTMLDivElement>(null);
 
-  // Pick the random copy/placeholder on mount only, so server and client
-  // render the same markup before hydration, then swap in the random
-  // pick. This intentionally fires once after mount rather than during
-  // render, so disable the lint rule that nudges towards computing state
-  // during render (not applicable here since the goal is to avoid a
-  // hydration mismatch, not to sync with an external system).
   /* eslint-disable react-hooks/set-state-in-effect --
      one-time post-mount randomization, not external-state sync */
   useEffect(() => {
@@ -104,6 +184,7 @@ export default function BookSearch() {
     setDropdownOpen(false);
     setStatus("loading");
     setErrorMessage("");
+    setSelectedBook(null);
 
     try {
       const response = await fetch(
@@ -169,28 +250,44 @@ export default function BookSearch() {
       )}
 
       {books && books.length > 0 && (
-        <ol id="searchResults">
+        <div className="book-grid">
           {books.map((book) => (
-            <li key={book.isbn13 || book.title} className="book-result">
-              {book.image && (
+            <div
+              key={book.isbn13 || book.title}
+              className="book-card"
+              onClick={() => setSelectedBook(book)}
+              role="button"
+              tabIndex={0}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") setSelectedBook(book);
+              }}
+            >
+              {book.image ? (
                 <Image
                   src={book.image}
                   alt={book.title}
-                  width={48}
-                  height={72}
-                  style={{ height: "auto" }}
+                  width={100}
+                  height={148}
+                  className="book-card-cover"
                   unoptimized
                 />
+              ) : (
+                <div className="book-card-cover book-card-cover-placeholder" />
               )}
-              <div>
-                <div className="book-title">{book.title}</div>
-                {book.authors.length > 0 && (
-                  <div className="book-authors">{book.authors.join(", ")}</div>
-                )}
-              </div>
-            </li>
+              <div className="book-title">{book.title}</div>
+              {book.authors.length > 0 && (
+                <div className="book-authors">{book.authors.join(", ")}</div>
+              )}
+            </div>
           ))}
-        </ol>
+        </div>
+      )}
+
+      {selectedBook && (
+        <BookDetailModal
+          book={selectedBook}
+          onClose={() => setSelectedBook(null)}
+        />
       )}
     </div>
   );

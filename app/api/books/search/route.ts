@@ -1,5 +1,21 @@
+import fs from "fs";
+import path from "path";
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
+
+const QUERIES_FILE = path.join(process.cwd(), "data", "queries.json");
+
+function saveQuery(q: string, books: unknown[]) {
+  try {
+    const existing = fs.existsSync(QUERIES_FILE)
+      ? (JSON.parse(fs.readFileSync(QUERIES_FILE, "utf-8")) as unknown[])
+      : [];
+    existing.push({ query: q, timestamp: new Date().toISOString(), results: books.length, books });
+    fs.writeFileSync(QUERIES_FILE, JSON.stringify(existing, null, 2));
+  } catch (err) {
+    console.error("Failed to save query:", err);
+  }
+}
 
 const ISBNDB_BASE_URL = "https://api2.isbndb.com";
 
@@ -17,6 +33,12 @@ interface IsbndbBook {
   title?: string;
   authors?: string[];
   image?: string;
+  publisher?: string;
+  date_published?: string;
+  pages?: number;
+  synopsis?: string;
+  subjects?: string[];
+  language?: string;
 }
 
 export async function GET(request: NextRequest) {
@@ -67,7 +89,15 @@ export async function GET(request: NextRequest) {
     title: book.title ?? "Untitled",
     authors: book.authors ?? [],
     image: book.image ?? null,
+    publisher: book.publisher ?? null,
+    datePublished: book.date_published ?? null,
+    pages: book.pages ?? null,
+    synopsis: book.synopsis ?? null,
+    subjects: book.subjects ?? [],
+    language: book.language ?? null,
   }));
+
+  saveQuery(q, books);
 
   return NextResponse.json({ books });
 }
