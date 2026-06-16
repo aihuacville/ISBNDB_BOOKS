@@ -6,6 +6,17 @@ author, or ISBN.
 
 ---
 
+## Features
+
+- **Book card grid** — search results render as a responsive card grid with cover image, title, and author.
+- **Click-to-detail modal** — click any card to open a detail panel showing publisher, date, pages, language, ISBN, synopsis (rendered as HTML), and subject tags. Close with `Esc`, the `×` button, or clicking outside.
+- **Smart author search** — every query runs two ISBNDB requests in parallel: a full-text search and an author-column search. Results are merged and deduplicated, with author matches ranked first.
+- **Query normalization** — repeated-syllable words are hyphenated before searching (e.g. `yoyo` → `yo-yo`), so `yoyo ma` finds Yo-Yo Ma correctly.
+- **Query logging** — every successful search is appended to `data/queries.json` with the query text, timestamp, result count, and full book list.
+- **Secure API key** — the ISBNDB key lives in `.env.local` (server-only) and is never sent to the browser.
+
+---
+
 ## Stack
 
 | Layer | Technology | Role |
@@ -18,18 +29,9 @@ author, or ISBN.
 Browser
   └── Next.js App Router (app/page.tsx, app/BookSearch.tsx)
         └── Next.js API Route (app/api/books/search/route.ts)
-              └── ISBNDB API  (key stays server-side, never sent to the browser)
+              ├── ISBNDB /books/{q}              (full-text search)
+              └── ISBNDB /books/{q}?column=author (author search)
 ```
-
-This replaces the previous static `index.html` / `script.js` site, which
-called the ISBNDB API directly from the browser with the API key embedded
-in client-side JS — visible to anyone who opened dev tools. The key now
-lives in `ISBNDB_API_KEY` (server-only env var) and all ISBNDB calls go
-through the `/api/books/search` route.
-
-> **Note:** the key that was previously hardcoded in `script.js` has been
-> moved into `.env.local`. Since it was exposed client-side before this
-> change, consider rotating it in your ISBNDB dashboard.
 
 ---
 
@@ -37,14 +39,17 @@ through the `/api/books/search` route.
 
 ```
 app/
-  layout.tsx              Root layout, page metadata
-  page.tsx                Home page (static content + <BookSearch />)
-  BookSearch.tsx           Client component: search box, dropdown, results
-  globals.css              Site styles (ported from the old style.css)
+  layout.tsx                Root layout, page metadata
+  page.tsx                  Home page (static content + <BookSearch />)
+  BookSearch.tsx            Client component: search box, card grid, detail modal
+  globals.css               Site styles
   api/books/search/
-    route.ts               Server-side proxy to ISBNDB, validated with Zod
-.env.example               Template for required env vars
-.env.local                 Your real ISBNDB_API_KEY (gitignored, not committed)
+    route.ts                Server-side proxy to ISBNDB with Zod validation,
+                            parallel author search, query normalization, and logging
+data/
+  queries.json              Auto-generated log of every search query (gitignored)
+.env.example                Template for required env vars
+.env.local                  Your real ISBNDB_API_KEY (gitignored, not committed)
 ```
 
 ---
@@ -72,17 +77,17 @@ npm run lint    # eslint
 `GET /api/books/search?q=<term>`
 
 - `q` is required, 1–200 chars (validated with Zod).
-- Looks up `https://api2.isbndb.com/books/{q}` server-side using
-  `ISBNDB_API_KEY`, and returns a trimmed `{ books: [...] }` shape
-  (`isbn13`, `title`, `authors`, `image`).
+- Fires two ISBNDB requests in parallel (text + author column) and merges results.
+- Normalizes repeated-syllable words in the query before searching (`yoyo` → `yo-yo`).
+- Returns `{ books: [...] }` — each book has `isbn13`, `title`, `authors`, `image`,
+  `publisher`, `datePublished`, `pages`, `synopsis`, `subjects`, `language`.
 - Returns `400` on invalid input, `502` if ISBNDB is unreachable, and the
   upstream status code if ISBNDB itself errors.
+- Appends every successful search to `data/queries.json`.
 
 ---
 
 ## Possible next steps
-
-These aren't built yet — add them only if the feature is actually needed:
 
 - **Accounts + saved books** — [Clerk](https://clerk.com) or
   [NextAuth.js](https://next-auth.js.org) for auth, plus
