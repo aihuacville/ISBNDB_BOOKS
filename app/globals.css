@@ -1,0 +1,115 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: gainsboro;
+}
+
+main {
+  text-align: center;
+  padding: 24px 16px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 550;
+  color: black;
+  letter-spacing: 0.02em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+#searchWrapper {
+  display: inline-block;
+  position: relative;
+}
+
+#searchDropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: white;
+  border: 1px solid #dfe1e5;
+  border-top: none;
+  border-radius: 0 0 22px 22px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  list-style: none;
+  padding: 8px 0;
+  margin: 0;
+  z-index: 100;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+#searchDropdown li {
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #333;
+}
+
+#searchDropdown li:hover {
+  background-color: #f1f3f4;
+}
+
+#searchInput {
+  width: 500px;
+  max-width: 90vw;
+  padding: 12px 20px;
+  border: 1px solid #dfe1e5;
+  border-radius: 22px;
+  font-size: 16px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+
+#searchResults {
+  text-align: left;
+  max-width: 500px;
+  margin: 16px auto 0;
+}
+
+.book-result {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 8px 0;
+  border-bottom: 1px solid #e5dfe2;
+}
+
+.book-result img {
+  width: 48px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.book-result .book-title {
+  font-weight: 600;
+}
+
+.book-result .book-authors {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.search-status {
+  color: #555;
+  margin-top: 12px;
+}
+
+.search-status.error {
+  color: #b00020;
+}
