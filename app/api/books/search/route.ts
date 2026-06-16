@@ -62,12 +62,25 @@ export async function GET(request: NextRequest) {
 
   const { q } = parsed.data;
 
-  let upstream: Response;
+  const headers = { Authorization: apiKey };
+
+  // Normalize query variants. "yoyo" → "yo-yo" by detecting a 2–3 char
+  // syllable immediately repeated (e.g. yoyo, mama, tutu).
+  const hyphenated = q.replace(/\b([a-zA-Z]{2,3})\1\b/g, "$1-$1");
+  const variants = [...new Set([q, hyphenated])]; // dedup if already same
+
+  // For each variant run text + author searches in parallel.
+  const requests = variants.flatMap((v) => {
+    const enc = encodeURIComponent(v);
+    return [
+      fetch(`${ISBNDB_BASE_URL}/books/${enc}?pageSize=20`, { headers }),
+      fetch(`${ISBNDB_BASE_URL}/books/${enc}?pageSize=20&column=author`, { headers }),
+    ];
+  });
+
+  let responses: Response[];
   try {
-    upstream = await fetch(
-      `${ISBNDB_BASE_URL}/books/${encodeURIComponent(q)}?pageSize=20`,
-      { headers: { Authorization: apiKey } },
-    );
+    responses = await Promise.all(requests);
   } catch {
     return NextResponse.json(
       { error: "Failed to reach ISBNDB" },
@@ -75,16 +88,41 @@ export async function GET(request: NextRequest) {
     );
   }
 
-  if (!upstream.ok) {
+  if (responses.every((r) => !r.ok)) {
     return NextResponse.json(
-      { error: `ISBNDB request failed (${upstream.status})` },
-      { status: upstream.status },
+      { error: `ISBNDB request failed (${responses[0].status})` },
+      { status: responses[0].status },
     );
   }
 
-  const data = (await upstream.json()) as { books?: IsbndbBook[] };
+  const payloads = await Promise.all(
+    responses.map((r) =>
+      r.ok
+        ? (r.json() as Promise<{ books?: IsbndbBook[] }>)
+        : Promise.resolve({ books: [] }),
+    ),
+  );
 
-  const books = (data.books ?? []).map((book) => ({
+  // Author-column results first (most relevant for name queries), then
+  // text results. Deduplicate by isbn13 across all responses.
+  const authorBooks = payloads
+    .filter((_, i) => i % 2 === 1) // odd indexes = author searches
+    .flatMap((p) => p.books ?? []);
+  const textBooks = payloads
+    .filter((_, i) => i % 2 === 0) // even indexes = text searches
+    .flatMap((p) => p.books ?? []);
+
+  const seen = new Set<string>();
+  const merged: IsbndbBook[] = [];
+  for (const book of [...authorBooks, ...textBooks]) {
+    const key = book.isbn13 ?? book.isbn ?? "";
+    if (key && !seen.has(key)) {
+      seen.add(key);
+      merged.push(book);
+    }
+  }
+
+  const books = merged.map((book) => ({
     isbn13: book.isbn13 ?? book.isbn ?? "",
     title: book.title ?? "Untitled",
     authors: book.authors ?? [],
